@@ -1,0 +1,112 @@
+.header-title {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.header-title h1 {
+    font-size: 48px;
+    font-family: 'Inknut Antiqua', serif;
+    margin: 0 20px;
+}
+
+.gif-container img {
+    width: 134px;
+    height: 134px;
+
+}
+.reverse {
+    transform: scaleX(-1);
+}
+
+.main-content {
+    display: flex;
+    justify-content: space-between;
+    gap: 20px;
+    padding: 20px;
+    max-width: 1762px;
+    margin: 0 auto;
+}
+
+.news-section {
+    width: 1138px;
+    background-color: #2D004D;
+    padding: 20px;
+    border-radius: 10px;
+}
+
+.news-section h2{
+    font-family: 'Inknut Antiqua', serif;
+    font-size: 28px;
+    margin-bottom: 20px;
+}
+
+.news-item {
+    margin-bottom: 20px;
+    background-color: #1A1F46;
+    padding: 10px;
+    border-radius: 5px;
+}
+
+.text-container {
+    margin-left: 10px;
+}
+
+.news-item h3 {
+    margin-top: 0;
+    font-size: 24px;
+}
+
+.news-item p {
+    font-size: 16px;
+}
+
+.news-item img {
+    width: 300px;
+    height: auto;
+    border-radius: 5px;
+    margin-right: 10px;
+}
+
+.btn-read-more {
+    padding: 10px 10px;
+    background-color: #FABEFF;
+    color: #000;
+    text-decoration: none;
+    border-radius: 5px;
+    font-family: 'Inknut Antiqua', serif;
+    width: auto;
+    height: 40px;
+}
+
+.sidebar {
+    width: 590px;
+}
+
+.about-us {
+    background-color: #2D004D;
+    padding: 20px;
+    margin-bottom: 20px;
+    border-radius: 10px;
+}
+
+.about-us h2 {
+    font-family: 'Inknut Antiqua', serif;
+    font-size: 28px;
+}
+
+.about-us p {
+    font-size: 18px;
+    text-wrap: wrap
+}
+
+.social-icons a img {
+    margin-right: 10px;
+    width: 32px;
+    height: 32px;
+}
+
+.meme img {
+    width: 100%;
+    border-radius: 10px;
+}
