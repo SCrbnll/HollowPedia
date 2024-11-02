@@ -1,0 +1,1349 @@
+{
+    "entities": [
+      {
+        "id": 1,
+        "icon": "https://static.wikia.nocookie.net/hollowknight/images/2/25/HJ_Crawlid.png",
+        "name": "Reptacillo",
+        "description": "Tímido carroñero que se arrastra por las cavernas buscando comida.",
+        "hunterComment": "Aburrido y patético. Casi no merece la pena matarlo.",
+        "img": "https://static.wikia.nocookie.net/hollowknight/images/5/5b/B_Crawlid.png"
+      },
+      {
+        "id": 2,
+        "icon": "https://static.wikia.nocookie.net/hollowknight/images/b/bd/HJ_Vengefly.png",
+        "name": "Vengamosca",
+        "description": "Depredador volador que persigue a su presa incansablemente.",
+        "hunterComment": "Este pequeño cazador feroz perseguirá con valentía a criaturas mucho más grandes que él. ¡Admirable! Aunque es débil y he devorado a cientos de ellos con poco esfuerzo o preocupación.",
+        "img": "https://static.wikia.nocookie.net/hollowknight/images/e/e2/B_Vengefly.png"
+      },
+      {
+        "id": 3,
+        "icon": "https://static.wikia.nocookie.net/hollowknight/images/8/89/HJ_Vengefly_King.png",
+        "name": "Rey vengamosca",
+        "description": "El patriarca de la colonia de las vengamoscas. Se abalanza en picado sobre los intrusos y llama refuerzos si se ve amenazado.",
+        "hunterComment": "Una asquerosa criatura a la que le gusta masticar cualquier porquería que encuentre tirada en el suelo de la caverna. Cuando se percata de una amenaza, emitirá molestos gritos y chillidos, así que mátalo rápido.",
+        "img": "https://static.wikia.nocookie.net/hollowknight/images/4/41/B_Vengefly_King.png"
+      },
+      {
+        "id": 4,
+        "icon": "https://static.wikia.nocookie.net/hollowknight/images/6/64/HJ_Gruzzer.png",
+        "name": "Gruzzer",
+        "description": "Criatura simplona que se mueve de un lado a otro anárquicamente, zumbando y golpeándose con cosas.",
+        "hunterComment": "Solo parecen ser ligeramente conscientes de lo que les rodea, por lo que son presa fácil para poner a prueba tu aguijón. ¿Qué será lo que guía su camino? Parece como si buscaran formas de morir.",
+        "img": "https://static.wikia.nocookie.net/hollowknight/images/6/63/B_Gruzzer.png"
+      },
+      {
+        "id": 5,
+        "icon": "https://static.wikia.nocookie.net/hollowknight/images/3/39/HJ_Gruz_Mother.png",
+        "name": "Madre Gruz",
+        "description": "Gruzzer maduro que lleva a sus crías en la barriga. Ataca lanzándose con su enorme cuerpo.",
+        "hunterComment": "Sorprendentemente, este monstruo no pone huevos, sino que lleva a sus crías dentro de su gordo estómago. Esta extraña práctica parece agotar a la criatura, que queda adormilada y vulnerable. ¡Aprovecha ese momento!",
+        "img": "https://static.wikia.nocookie.net/hollowknight/images/9/9f/B_Gruz_Mother.png"
+      },
+      {
+        "id": 6,
+        "icon": "https://static.wikia.nocookie.net/hollowknight/images/3/3e/HJ_Tiktik.png",
+        "name": "Tiktik",
+        "description": "Usa sus pequeñas y afiladas garras para trepar por paredes y techos.",
+        "hunterComment": "Pasa el tiempo repiqueteando una y otra vez por los caminos y las cavernas cercanas a la superficie del reino. Si eres paciente, puedes esperar a que se acerque a ti y cogerlo.",
+        "img": "https://static.wikia.nocookie.net/hollowknight/images/9/91/B_Tiktik.png"
+      },
+      {
+        "id": 7,
+        "icon": "https://static.wikia.nocookie.net/hollowknight/images/f/fe/HJ_Aspid_Hunter.png",
+        "name": "Cazador aspid",
+        "description": "Vence a su presa escupiendo líquido corrosivo. Suele cazar en grupo.",
+        "hunterComment": "Depredadores inteligentes que tratarán de atacarte a distancia. No les des espacio, ¡carga contra ellos y córtalos por la mitad! Verás que no son tan inteligentes cuando están muertos.",
+        "img": "https://static.wikia.nocookie.net/hollowknight/images/0/0a/Aspid_Hunter_Idle.png"
+      },
+      {
+        "id": 8,
+        "icon": "https://static.wikia.nocookie.net/hollowknight/images/0/0c/HJ_Aspid_Mother.png",
+        "name": "Madre aspid",
+        "description": "Lleva los huevos de sus crías dentro de la barriga. Puede dar a luz a crías según lo necesite para ocuparse de los intrusos.",
+        "hunterComment": "¡Utiliza sin pudor a sus crías como un arma contra sus enemigos! Deplorable, sí, pero admiro su inventiva. Los buenos cazadores no siempre son buenos padres.",
+        "img": "https://static.wikia.nocookie.net/hollowknight/images/c/ce/Aspid_Mother_Idle.png"
+      },
+      {
+        "id": 9,
+        "icon": "https://static.wikia.nocookie.net/hollowknight/images/d/d0/HJ_Aspid_Hatchling.png",
+        "name": "Cría aspid",
+        "description": "Recién nacidas, estos jóvenes aspid rodean a los intrusos de forma instintiva.",
+        "hunterComment": "¡Estas crías nacen con un instinto letal! Aunque solo son bebés y puedes destrozarlos con tu aguijón sin pensártelo dos veces. Simplemente, no dejes que te abrumen por sus números.",
+        "img": "https://static.wikia.nocookie.net/hollowknight/images/4/41/B_Aspid_Hatchling.png"
+      },
+      {
+        "id": 10,
+        "icon": "https://static.wikia.nocookie.net/hollowknight/images/d/d6/HJ_Goam.png",
+        "name": "Goam",
+        "description": "Con su gruesa coraza, emerge del suelo para atrapar a su presa entre sus colmillos.",
+        "hunterComment": "Estas bestias parecen ser inmunes a la mayoría de los daños, por lo que puedes afilar tus armas en su grueso pellejo o simplemente golpearlas para tu propia diversión. Apenas parecen notarlo.",
+        "img": "https://static.wikia.nocookie.net/hollowknight/images/7/76/Bestiary_armoured-worm_f.png"
+      },
+      {
+        "id": 11,
+        "icon": "https://static.wikia.nocookie.net/hollowknight/images/0/08/HJ_Wandering_Husk.png",
+        "name": "Cáscara errante",
+        "description": "Los restos de un insecto, reanimados por una extraña fuerza. Vaga por los caminos en los que solía vivir.",
+        "hunterComment": "Estos insectos «civilizados» de Hallownest eran débiles en vida y ahora son igual de débiles muertos. ¡Devuélvelos a la tierra de la que nacieron!",
+        "img": "https://static.wikia.nocookie.net/hollowknight/images/9/96/Wandering_Husk_Idle.png"
+      },
+      {
+        "id": 12,
+        "icon": "https://static.wikia.nocookie.net/hollowknight/images/f/f0/HJ_Husk_Hornhead.png",
+        "name": "Cáscara cabezacuerno",
+        "description": "Los restos de un insecto, reanimados por una extraña fuerza. Usa su cuerno para atacar a cualquier criatura no infectada que encuentre.",
+        "hunterComment": "Estos insectos dan una sensación de arrogancia, incluso después de morir. ¡Están demasiado orgullosos de sus largos cuernos! Disfruto rompiéndoselos.",
+        "img": "https://static.wikia.nocookie.net/hollowknight/images/c/cf/B_Husk_Hornhead.png"
+      },
+      {
+        "id": 13,
+        "icon": "https://static.wikia.nocookie.net/hollowknight/images/0/0c/HJ_Leaping_Husk.png",
+        "name": "Cáscara saltarina",
+        "description": "Los restos de un insecto, reanimados por una extraña fuerza. Saltará de forma instintiva sobre cualquier criatura no infectada que lo ataque.",
+        "hunterComment": "Los insectos del antiguo Hallownest no cazaban su propia comida, sino que otros se la traían. Por eso eran tan débiles. ¡Por eso su reino se desmoronó y se desvaneció!",
+        "img": "https://static.wikia.nocookie.net/hollowknight/images/4/4d/B_Leaping_Husk.png"
+      },
+      {
+        "id": 14,
+        "icon": "https://static.wikia.nocookie.net/hollowknight/images/2/24/HJ_Husk_Bully.png",
+        "name": "Cáscara matona",
+        "description": "Los restos de un insecto, reanimados por una extraña fuerza. Ataca de forma agresiva a cualquier criatura no infectada que encuentre.",
+        "hunterComment": "Estos cadáveres andantes están llenos de una gruesa neblina naranja. Tiene un sabor empalagoso y enfermizo. Me parece repugnante. Tras matar a estas criaturas, te sugiero que no te las comas.",
+        "img": "https://static.wikia.nocookie.net/hollowknight/images/6/6a/B_Husk_Bully.png"
+      },
+      {
+        "id": 15,
+        "icon": "https://static.wikia.nocookie.net/hollowknight/images/7/70/HJ_Husk_Warrior.png",
+        "name": "Cáscara guerrera",
+        "description": "Los restos de un insecto, reanimados por una extraña fuerza. Porta un aguijón y una coraza.",
+        "hunterComment": "Estos insectos, ablandados por generaciones de lujo, carecen de garras, coraza propia y veneno. Los que desean protegerse a sí mismos se ven obligados a crear armas con piedras, menas o corazas.",
+        "img": "https://static.wikia.nocookie.net/hollowknight/images/b/b5/Husk_Warrior_Idle.png"
+      },
+      {
+        "id": 16,
+        "icon": "https://static.wikia.nocookie.net/hollowknight/images/d/d4/HJ_Husk_Guard.png",
+        "name": "Cáscara guardiana",
+        "description": "Los restos de un gran guardián de los Cruces de Hallownest, reanimados por una extraña fuerza. Su instinto aún le impulsa a defender su puesto de los intrusos.",
+        "hunterComment": "Estos insectos, más grandes y fuertes que sus hermanos, siguen viéndose obligados a robar sus armas de los restos de otras criaturas. No deambulan ni cazan, sino que permanecen en guardia para siempre y atacan a todo aquel que se acerque.",
+        "img": "https://static.wikia.nocookie.net/hollowknight/images/1/1b/B_Husk_Guard.png"
+      },
+      {
+        "id": 17,
+        "icon": "https://static.wikia.nocookie.net/hollowknight/images/c/c1/HJ_Entombed_Husk.png",
+        "name": "Restos sepultados",
+        "description": "Restos momificados, deformados y enloquecidos por la infección.",
+        "hunterComment": "Dentro de estos cadáveres renqueantes brilla una luz que perfora las tinieblas. Una vez traté de ver qué había tras la luz... y descubrí algo que brillaba aún más. Algo terrible.",
+        "img": "https://static.wikia.nocookie.net/hollowknight/images/6/65/B_Entombed_Husk.png"
+      },
+      {
+        "id": 18,
+        "icon": "https://static.wikia.nocookie.net/hollowknight/images/4/47/HJ_False_Knight.png",
+        "name": "Falso Caballero",
+        "description": "Un gusano al que una fuerza extraña ha vuelto loco. Vive en una coraza blindada robada.",
+        "hunterComment": "A las criaturas débiles les encanta robar la fuerza de los demás. Sus vidas son efímeras y están llenas de miedo, pero anhelan tener el poder para dominar a quienes los han dominado.",
+        "img": "https://static.wikia.nocookie.net/hollowknight/images/9/98/B_False_Knight.png"
+      },
+      {
+        "id": 19,
+        "icon": "https://static.wikia.nocookie.net/hollowknight/images/f/f8/HJ_Maggot.png",
+        "name": "Gusano",
+        "description": "Los miembros más débiles del reino de Hallownest. Se les solía menospreciar y obligar a hacer trabajos de baja categoría.",
+        "hunterComment": "Estas indefensas criaturas, compuestas principalmente de grasa dulce, son unas provisiones excelentes para largos viajes. Están más buenos asados en una hoguera. Si tratan de negociar por sus vidas, ignóralos. No tienen nada que ofrecer.",
+        "img": "https://static.wikia.nocookie.net/hollowknight/images/5/53/B_Maggot.png"
+      },
+      {
+        "id": 20,
+        "icon": "https://static.wikia.nocookie.net/hollowknight/images/e/ef/HJ_Menderbug.png",
+        "name": "Insecto reparador",
+        "description": "Miembro de un huidizo gremio de insectos empecinado en el mantenimiento de las numerosas señales y postes de Hallownest.",
+        "hunterComment": "Los insectos de Hallownest estaban obsesionados con construir cosas. Qué mentes más extrañas tenían.",
+        "img": "https://static.wikia.nocookie.net/hollowknight/images/a/aa/Menderbug.png"
+      },
+      {
+        "id": 21,
+        "icon": "https://static.wikia.nocookie.net/hollowknight/images/7/71/HJ_Lifeseed.png",
+        "name": "Germen de vida",
+        "description": "Pequeño y veloz germen relleno de saviavida, que se puede extraer y consumir para disfrutar de sus propiedades saludables.",
+        "hunterComment": "El líquido brillante del interior de estos pequeñines es delicioso y, si lo bebes, hará que te sientas más fuerte. Me pregunto cómo sabrán mis propias entrañas... ¿sería una cosa horrorosa tratar de beber un poco de ellas?",
+        "img": "https://static.wikia.nocookie.net/hollowknight/images/1/14/B_Lifeseed.png"
+      },
+      {
+        "id": 22,
+        "icon": "https://static.wikia.nocookie.net/hollowknight/images/3/3f/HJ_Baldur.png",
+        "name": "Baldur",
+        "description": "Se hace una bola y se lanza contra los intrusos que se adentran en su territorio. Agresivo incluso siendo recién nacido.",
+        "hunterComment": "A los jóvenes cazadores les encanta capturar a estas criaturas y practicar deporte con ellas. Te animo a que lo pruebes, si te pica el gusanillo.",
+        "img": "https://static.wikia.nocookie.net/hollowknight/images/4/4c/B_Baldur.png"
+      },
+      {
+        "id": 23,
+        "icon": "https://static.wikia.nocookie.net/hollowknight/images/b/b4/HJ_Elder_Baldur.png",
+        "name": "Baldur anciano",
+        "description": "Corpulento y cubierto de gruesas placas. Se retrae sobre sí mismo cuando se le ataca.",
+        "hunterComment": "A medida que envejecen, estas criaturas se vuelven demasiado pesadas y toscas para rodar libremente. En vez de eso, se hacen una bola y se ocultan del mundo. ¿En qué pensarán allí, enrolladas sobre sí mismas? Más tiempo de paz y tranquilidad, quizás.",
+        "img": "https://static.wikia.nocookie.net/hollowknight/images/5/52/B_Elder_Baldur.png"
+      },
+      {
+        "id": 24,
+        "icon": "https://static.wikia.nocookie.net/hollowknight/images/b/bd/HJ_Mosscreep.png",
+        "name": "Trepamusgo",
+        "description": "Debilucho que se cubre con hojas para parecer más grande. Se oculta entre los matorrales.",
+        "hunterComment": "Solía pensar que estas cosas no eran más que plantas caminantes. Cuando descubrí que en realidad eran criaturas vivas, empecé a matarlas de inmediato. ¡Esa es la naturaleza de la caza!",
+        "img": "https://static.wikia.nocookie.net/hollowknight/images/c/c1/B_Mosscreep.png"
+      },
+      {
+        "id": 25,
+        "icon": "https://static.wikia.nocookie.net/hollowknight/images/8/80/HJ_Mossfly.png",
+        "name": "Musgólula",
+        "description": "Debilucho volador que se cubre con hojas para parecer más grande. Se oculta entre los matorrales y huye si se le acercan depredadores.",
+        "hunterComment": "Pasa toda su vida escondiéndose o huyendo. Qué triste. ¿O quizás esta es la vida que han elegido y la disfrutan? Es una idea extraña, pero no imposible.",
+        "img": "https://static.wikia.nocookie.net/hollowknight/images/a/af/B_Mossfly.png"
+      },
+      {
+        "id": 26,
+        "icon": "https://static.wikia.nocookie.net/hollowknight/images/b/b5/HJ_Mosskin.png",
+        "name": "Musgoso",
+        "description": "Insecto con forma de planta que carga cuando un enemigo se acerca.",
+        "hunterComment": "A veces es difícil detectarlo entre el follaje. Cuando menos te lo esperas aparece a tu lado y carga contra ti. Ve con cuidado.",
+        "img": "https://static.wikia.nocookie.net/hollowknight/images/4/47/B_Mosskin.png"
+      },
+      {
+        "id": 27,
+        "icon": "https://static.wikia.nocookie.net/hollowknight/images/a/ad/HJ_Volatile_Mosskin.png",
+        "name": "Musgoso volátil",
+        "description": "Insecto con forma de planta inflamado por la infección. Cuando siente una amenaza libera gas.",
+        "hunterComment": "El gas que emiten sus brotes posee un aroma atrayente. ¡Pero si te acercas demasiado disolverá tu coraza y tu carne!",
+        "img": "https://static.wikia.nocookie.net/hollowknight/images/1/1b/B_Volatile_Mosskin.png"
+      },
+      {
+        "id": 28,
+        "icon": "https://static.wikia.nocookie.net/hollowknight/images/5/54/HJ_Fool_Eater.png",
+        "name": "Engulletontos",
+        "description": "Planta carnívora que ataca a cualquier criatura que se le acerque.",
+        "hunterComment": "Tienes que ser un auténtico tonto para dejarte engañar por una planta.",
+        "img": "https://static.wikia.nocookie.net/hollowknight/images/c/ce/B_Fool_Eater.png"
+      },
+      {
+        "id": 29,
+        "icon": "https://static.wikia.nocookie.net/hollowknight/images/b/b1/HJ_Squit.png",
+        "name": "Mosquito",
+        "description": "Se lanza contra su presa con su trompa en forma de aguja.",
+        "hunterComment": "Cuando te embistan, no te dejes llevar por el pánico. Mantente firme y golpéales cuando se acerquen.",
+        "img": "https://static.wikia.nocookie.net/hollowknight/images/0/05/B_Squit.png"
+      },
+      {
+        "id": 30,
+        "icon": "https://static.wikia.nocookie.net/hollowknight/images/0/0e/HJ_Obble.png",
+        "name": "Obble",
+        "description": "Insecto gordo, lento y volador. Suele soltar un líquido ácido que guarda en su cuerpo rechoncho.",
+        "hunterComment": "Se da cuenta de lo molesto que resulta? ¿Moviéndose de un lado a otro sin rumbo y derramando sus jugos nocivos allí por donde pasa? Si te topas con alguno, asegúrate de matarlo.",
+        "img": "https://static.wikia.nocookie.net/hollowknight/images/1/13/B_Obble.png"
+      },
+      {
+        "id": 31,
+        "icon": "https://static.wikia.nocookie.net/hollowknight/images/3/33/HJ_Gulka.png",
+        "name": "Gulka",
+        "description": "Un agresivo ser vegetal que se retrae de forma proactiva cuando siente peligro cerca. Escupe bolas duras y espinosas cuando sus enemigos se encuentran a distancia.",
+        "hunterComment": "Sus hojas son secas y sosas. El capullo es desagradablemente agrio, pero ¡oh! El veneno de esas bolas que escupe... ¡Exquisito! Si te sobra tiempo, trata de beber un poco y disfrutar de sus efectos.",
+        "img": "https://static.wikia.nocookie.net/hollowknight/images/4/4d/B_Gulka.png"
+      },
+      {
+        "id": 32,
+        "icon": "https://static.wikia.nocookie.net/hollowknight/images/c/c9/HJ_Maskfly.png",
+        "name": "Libemáscara",
+        "description": "Criatura voladora inofensiva a la que le gustan los entornos tranquilos. Normalmente viajan en bandadas.",
+        "hunterComment": "Todos están alertas ante el peligro y cuando uno escapa, el resto lo siguen. Me pregunto qué se siente al contar con la protección de una manada.",
+        "img": "https://static.wikia.nocookie.net/hollowknight/images/2/2a/B_Maskfly.png"
+      },
+      {
+        "id": 33,
+        "icon": "https://static.wikia.nocookie.net/hollowknight/images/1/15/HJ_Moss_Charger.png",
+        "name": "Musgoagresor",
+        "description": "Tímida criatura que asusta a los intrusos cubriéndose con enormes trozos de musgo.",
+        "hunterComment": "Es pequeño, pero saca mucho coraje y fortaleza una vez que se cubre de follaje. Y puedo comprender el deseo de camuflarse...",
+        "img": "https://static.wikia.nocookie.net/hollowknight/images/5/56/B_Moss_Charger.png"
+      },
+      {
+        "id": 34,
+        "icon": "https://static.wikia.nocookie.net/hollowknight/images/c/c5/HJ_Massive_Moss_Charger.png",
+        "name": "Musgoagresor gigante",
+        "description": "Una familia de criaturas que ha aprendido a fusionarse con musgo y forman un solo ser.",
+        "hunterComment": "Es cierto, la unión hace la fuerza, pero estas criaturas nunca fueron demasiado fuertes de por sí. ¡Haz pedazos su artimaña!",
+        "img": "https://static.wikia.nocookie.net/hollowknight/images/6/63/B_Massive_Moss_Charger.png"
+      },
+      {
+        "id": 35,
+        "icon": "https://static.wikia.nocookie.net/hollowknight/images/0/0e/HJ_Moss_Knight.png",
+        "name": "Mugocaballero",
+        "description": "Protector de Sendero Verde, adiestrado en las artes del aguijón y la coraza.",
+        "hunterComment": "Se ocultan como montículos con forma de arbusto y parecen débiles, ¡pero ten cuidado con estos guerreros! Son incansables en combate y protegen con fiereza algo que se oculta en el Sendero Verde.",
+        "img": "https://static.wikia.nocookie.net/hollowknight/images/1/19/B_Moss_Knight.png"
+      },
+      {
+        "id": 36,
+        "icon": "https://static.wikia.nocookie.net/hollowknight/images/1/1a/HJ_Mossy_Vagabond.png",
+        "name": "Vagabundo musgoso",
+        "description": "Vago y corpulento musgoso. Se deja influir con facilidad por los demás.",
+        "hunterComment": "Lento, gordo y fácil de derrotar; características comunes en quienes se olvidan de su vocación y abandonan sus deberes.",
+        "img": "https://static.wikia.nocookie.net/hollowknight/images/8/86/B_Mossy_Vagabond.png"
+      },
+      {
+        "id": 37,
+        "icon": "https://static.wikia.nocookie.net/hollowknight/images/0/0f/HJ_Durandoo.png",
+        "name": "Durandoo",
+        "description": "Simple criatura andante metida en una dura coraza. Se suele encontrar vadeando en estanques pocos profundos de agua ácida.",
+        "hunterComment": "Una de las pocas criaturas que pueden sobrevivir en los ríos de abrasadora agua ácida que fluyen en torno a nosotros. ¿De dónde viene este agua? Burbujea y escupe con un furioso odio hacia los vivos...",
+        "img": "https://static.wikia.nocookie.net/hollowknight/images/6/68/B_Durandoo.png"
+      },
+      {
+        "id": 38,
+        "icon": "https://static.wikia.nocookie.net/hollowknight/images/a/a7/HJ_Duranda.png",
+        "name": "Duranda",
+        "description": "Simple criatura voladora protegida por una coraza espinosa.",
+        "hunterComment": "Cree estar completamente protegido y por ello no se preocupa por quienes pasan a su lado. Ataca su rostro y enséñale que de nada se está nunca a salvo.",
+        "img": "https://static.wikia.nocookie.net/hollowknight/images/9/95/B_Duranda.png"
+      },
+      {
+        "id": 39,
+        "icon": "https://static.wikia.nocookie.net/hollowknight/images/5/51/HJ_Aluba.png",
+        "name": "Aluba",
+        "description": "Un ser tranquilo que prefiere planear cerca de aguas corrosivas",
+        "hunterComment": "Qué vida más despreocupada llevan cuando flotan sobre nosotros. Pero si alguno se acerca demasiado al suelo...",
+        "img": "https://static.wikia.nocookie.net/hollowknight/images/c/ce/B_Aluba.png"
+      },
+      {
+        "id": 40,
+        "icon": "https://static.wikia.nocookie.net/hollowknight/images/5/55/HJ_Charged_Lumafly.png",
+        "name": "Lumélula eléctrica",
+        "description": "Cuando se sienten amenazadas se agrupan y emiten electricidad.",
+        "hunterComment": "Normalmente vuelan pacíficamente, pero a veces se agrupan y emiten un relámpago brillante y chisporroteante capaz de aturdir y quemar incluso a grandes criaturas como yo. Busca un hueco por el que puedas pasar y deslízate rápidamente.",
+        "img": "https://static.wikia.nocookie.net/hollowknight/images/7/71/B_Charged_Lumafly.png"
+      },
+      {
+        "id": 41,
+        "icon": "https://static.wikia.nocookie.net/hollowknight/images/a/a0/HJ_Uoma.png",
+        "name": "Uoma",
+        "description": "La forma gelatinosa más pequeña. Es pasivo y no parecen darse cuenta de nada, pero desprende peligrosas cargas eléctricas.",
+        "hunterComment": "¿El espíritu de un ancestro muerto? ¿El cerebro de una criatura más grande, al que se le permite vagar libremente? ¿Un huevo en busca de un lugar seguro para eclosionar? No tengo ni idea de qué se trata.",
+        "img": "https://static.wikia.nocookie.net/hollowknight/images/8/88/B_Uoma.png"
+      },
+      {
+        "id": 42,
+        "icon": "https://static.wikia.nocookie.net/hollowknight/images/d/dd/HJ_Ooma.png",
+        "name": "Ooma",
+        "description": "Su exterior pasivo protege un núcleo agresivo y explosivo.",
+        "hunterComment": "Criatura espeluznante y horrible hecha de un líquido grueso. Puedes ver a través de ella, pero no dónde guarda sus pensamientos. No me fío de ella para nada. Mantente alejado.",
+        "img": "https://static.wikia.nocookie.net/hollowknight/images/7/7e/B_Ooma.png"
+      },
+      {
+        "id": 43,
+        "icon": "https://static.wikia.nocookie.net/hollowknight/images/0/0f/HJ_Uumuu.png",
+        "name": "Uumuu",
+        "description": "Ser inteligente que protege la cámara interior de los Archivos de la Maestra.",
+        "hunterComment": "El desfiladero de abajo, el que está repleto de neblina y chisporrotea con una energía extraña... un cazador puede perder todos sus sentidos allí abajo. Ten cuidado... allí acechan cosas extrañas y antinaturales.",
+        "img": "https://static.wikia.nocookie.net/hollowknight/images/4/49/B_Uumuu.png"
+      },
+      {
+        "id": 44,
+        "icon": "https://static.wikia.nocookie.net/hollowknight/images/1/1e/HJ_Ambloom.png",
+        "name": "Ambloom",
+        "description": "Un hongo reptante y simplón. Su sombrero está cubierto de una capa de espinas endurecidas.",
+        "hunterComment": "Túmbate boca abajo, abre el hocico y deja que este sabroso bocado se deslice directamente a tu estómago.",
+        "img": "https://static.wikia.nocookie.net/hollowknight/images/c/c3/B_Ambloom.png"
+      },
+      {
+        "id": 45,
+        "icon": "https://static.wikia.nocookie.net/hollowknight/images/2/21/HJ_Fungling.png",
+        "name": "Fungicría",
+        "description": "Globo fúngico pasivo. Sus gases internos hacen que flote.",
+        "hunterComment": "No es más que una cría y se desplaza a la deriva con los ojos cerrados y una mente abierta. Cuando era joven, mis hermanos y hermanas y yo tratábamos de cazarnos los unos a los otros en el nido. Ahora cazo solo.",
+        "img": "https://static.wikia.nocookie.net/hollowknight/images/b/b9/B_Fungling.png"
+      },
+      {
+        "id": 46,
+        "icon": "https://static.wikia.nocookie.net/hollowknight/images/1/10/HJ_Fungoon.png",
+        "name": "Funglobo",
+        "description": "Globo fúngico totalmente crecido. Escupe los gases internos que acumula a sus agresores.",
+        "hunterComment": "¡Parece una pelota! Creo que nunca he visto a una criatura más redonda que esta. No hay duda de que este mundo oculta algunas criaturas maravillosas. ¡Debo cazarlas a todas!",
+        "img": "https://static.wikia.nocookie.net/hollowknight/images/1/1c/B_Fungoon.png"
+      },
+      {
+        "id": 47,
+        "icon": "https://static.wikia.nocookie.net/hollowknight/images/8/86/HJ_Sporg.png",
+        "name": "Sporg",
+        "description": "Detecta los movimientos cercanos y dispara esporas explosivas que van a la deriva hacia su objetivo.",
+        "hunterComment": "Si eres hábil, puedes redirigir las esporas hacia ellos y observar cómo perecen en una explosión que ellos mismos han creado. Se puede sacar una lección de esto, creo.",
+        "img": "https://static.wikia.nocookie.net/hollowknight/images/7/72/B_Sporg.png"
+      },
+      {
+        "id": 48,
+        "icon": "https://static.wikia.nocookie.net/hollowknight/images/f/f4/HJ_Fungified_Husk.png",
+        "name": "Restos fungificados",
+        "description": "Los restos de un insecto, consumidos por un hongo. Suele liberar nubes de un gas denso y mortífero.",
+        "hunterComment": "¡Los insectos de Hallownest son tan patéticos que tienen más posibilidades de sobrevivir cuando están infectados por hongos venenosos! Son realmente unas criaturas absurdas.",
+        "img": "https://static.wikia.nocookie.net/hollowknight/images/1/1a/B_Fungified_Husk.png"
+      },
+      {
+        "id": 49,
+        "icon": "https://static.wikia.nocookie.net/hollowknight/images/e/e0/HJ_Shrumeling.png",
+        "name": "Seticría",
+        "description": "Joven criatura fúngica. Pasa la mayoría del tiempo en la tierra, pero puede arrancar sus raíces de ella y huir si se siente en peligro.",
+        "hunterComment": "Parece una seta normal hasta que te acercas. Entonces salta del suelo y empieza a correr de un lado a otro sin ver nada. Es muy, muy divertido.",
+        "img": "https://static.wikia.nocookie.net/hollowknight/images/9/9a/B_Shrumeling.png"
+      },
+      {
+        "id": 50,
+        "icon": "https://static.wikia.nocookie.net/hollowknight/images/6/69/HJ_Shrumal_Warrior.png",
+        "name": "Fungiguerrero",
+        "description": "Criatura fúngica que ataca a los intrusos para proteger a sus crías.",
+        "hunterComment": "¡Algo extraño en el aire ha provocado que a estas setas les salgan corazones, mentes e incluso rostros! Eso quiere decir que ahora tienen miedo por su vida, como todas las demás criaturas vivas.",
+        "img": "https://static.wikia.nocookie.net/hollowknight/images/c/ce/B_Shrumal_Warrior.png"
+      },
+      {
+        "id": 51,
+        "icon": "https://static.wikia.nocookie.net/hollowknight/images/e/e7/HJ_Shrumal_Ogre.png",
+        "name": "Fungiogro",
+        "description": "Enorme criatura fúngica. Ataca escupiendo veneno corrosivo y embistiendo con su cuerpo a sus enemigos.",
+        "hunterComment": "¿Estas enormes cosas son bestias o son setas? Corté una por la mitad para ver lo que tenía dentro, pero no pude encontrar ninguna respuesta en sus suaves y apestosas entrañas.",
+        "img": "https://static.wikia.nocookie.net/hollowknight/images/c/c8/B_Shrumal_Ogre.png"
+      },
+      {
+        "id": 52,
+        "icon": "https://static.wikia.nocookie.net/hollowknight/images/9/9f/HJ_Mantis_Youth.png",
+        "name": "Joven mantis",
+        "description": "Miembro de una orgullosa tribu, quien protege ferozmente su territorio. Lanza ataques punzantes con su abdomen con forma de aguja afilada.",
+        "hunterComment": "Conforme crece, pierde la capacidad de volar. Se suele celebrar el paso a la edad adulta, pero a medida que transcurre el tiempo, nos damos cuenta de lo que hemos perdido.",
+        "img": "https://static.wikia.nocookie.net/hollowknight/images/6/6f/B_Mantis_Youth.png"
+      },
+      {
+        "id": 53,
+        "icon": "https://static.wikia.nocookie.net/hollowknight/images/9/93/HJ_Mantis_Warrior.png",
+        "name": "Guerrero mantis",
+        "description": "Miembro de una orgullosa tribu, quien protege ferozmente su territorio. Lanza ataques salvajes con sus afiladas extremidades.",
+        "hunterComment": "Si te adentras demasiado en los bosques fúngicos, estos guerreros se interpondrán en tu camino. ¿Qué es lo que protegen allí en lo más profundo de su territorio?",
+        "img": "https://static.wikia.nocookie.net/hollowknight/images/a/aa/Mantis_Warrior_Idle.png"
+      },
+      {
+        "id": 54,
+        "icon": "https://static.wikia.nocookie.net/hollowknight/images/4/4e/HJ_Mantis_Lords.png",
+        "name": "Señores mantis",
+        "description": "Son los líderes de la tribu mantis, y sus mejores guerreros. Portan finas lanzas aguijón, y atacan con la velocidad del rayo.",
+        "hunterComment": "La tribu mantis y los insectos de Hallownest no se llevaban demasiado bien. Sin embargo, las mantis consiguieron sobrevivir a sus rivales, y su civilización aún perdura.",
+        "img": "https://static.wikia.nocookie.net/hollowknight/images/2/2d/B_Mantis_Lords-2.png"
+      },
+      {
+        "id": 55,
+        "icon": "https://static.wikia.nocookie.net/hollowknight/images/2/2f/HJ_Husk_Sentry.png",
+        "name": "Cáscara centinela",
+        "description": "Los restos reanimados de un centinela de Hallownest. Aún conserva algunos recuerdos de su anterior cometido.",
+        "hunterComment": "Más habilidoso en combate que la mayoría de los insectos de Hallownest, es ágil, aunque ligeramente blindado. No le des ni un respiro.",
+        "img": "https://static.wikia.nocookie.net/hollowknight/images/2/26/B_Husk_Sentry.png"
+      },
+      {
+        "id": 56,
+        "icon": "https://static.wikia.nocookie.net/hollowknight/images/9/97/HJ_Heavy_Sentry.png",
+        "name": "Centinela pesado",
+        "description": "Los restos reanimados de un gran centinela de Hallownest. Uno de los pocos de Hallownest lo suficientemente fuertes para empuñar un gran aguijón.",
+        "hunterComment": "Sorprendentemente astuto para un cadáver. Tratará de agarrarte si saltas por encima de él y puede perseguirte si huyes. Es divertido cazarlo, pero ten cuidado si van en grupo.",
+        "img": "https://static.wikia.nocookie.net/hollowknight/images/1/12/B_Heavy_Sentry.png"
+      },
+      {
+        "id": 57,
+        "icon": "https://static.wikia.nocookie.net/hollowknight/images/b/b3/HJ_Winged_Sentry.png",
+        "name": "Centinela alado",
+        "description": "Centinela volador de Hallownest. Patrulla las alturas de la enorme caverna en la que se levanto la ciudad.",
+        "hunterComment": "Baila por el aire fuera de tu alcance hasta que encuentra una apertura y, luego, se abalanza para asestar un golpe decisivo. Si estas seguro de ti mismo, espera a que se acerque a ti y contraataca.",
+        "img": "https://static.wikia.nocookie.net/hollowknight/images/e/ec/B_Winged_Sentry.png"
+      },
+      {
+        "id": 58,
+        "icon": "https://static.wikia.nocookie.net/hollowknight/images/e/e1/HJ_Lance_Sentry.png",
+        "name": "Centinela lancero",
+        "description": "Centinela alado de Hallownest equipado con una lanza aguijón. Carga contra las amenazas o tira su lanza a distancia.",
+        "hunterComment": "Este taimado enemigo mantendrá a menudo la distancia y tratará de acabar contigo con sus armas arrojadizas. Cuando cargue contra ti, salta y destrúyelo.",
+        "img": "https://static.wikia.nocookie.net/hollowknight/images/b/b0/B_Lance_Sentry.png"
+      },
+      {
+        "id": 59,
+        "icon": "https://static.wikia.nocookie.net/hollowknight/images/4/49/HJ_Mistake.png",
+        "name": "Error",
+        "description": "Fue una vez un insecto muy inteligente, pero ahora está deformado por usar mal el alma.",
+        "hunterComment": "Estos insensatos juguetearon con el alma de otras criaturas y perdieron su forma. Ahora merodean por las sombras de su Santuario como babosas y esperan que sus antiguos hermanos les construyan nuevos cuerpos.",
+        "img": "https://static.wikia.nocookie.net/hollowknight/images/9/9d/B_Mistake.png"
+      },
+      {
+        "id": 60,
+        "icon": "https://static.wikia.nocookie.net/hollowknight/images/0/05/HJ_Folly.png",
+        "name": "Folly",
+        "description": "Fue una vez un insecto muy inteligente, pero ahora está inflado por usar mal el alma.",
+        "hunterComment": "He oído susurros de que el secreto que buscaban estos insensatos era la inmortalidad. Vivir para siempre... ¡Nunca he escuchado nada más obsceno!",
+        "img": "https://static.wikia.nocookie.net/hollowknight/images/2/25/B_Folly.png"
+      },
+      {
+        "id": 61,
+        "icon": "https://static.wikia.nocookie.net/hollowknight/images/1/17/HJ_Soul_Twister.png",
+        "name": "Tuercealmas",
+        "description": "Insecto muy inteligente que usa conocimientos arcanos para convertir el alma en despiadados hechizos.",
+        "hunterComment": "He oído a otros hablar sobre el «alma», pero yo no entiendo de qué se trata realmente. Sé que la carne recién matada es la que mejor sabe; ¿será porque el «alma» aún se aferra a ella?",
+        "img": "https://static.wikia.nocookie.net/hollowknight/images/b/b6/B_Soul_Twister.png"
+      },
+      {
+        "id": 62,
+        "icon": "https://static.wikia.nocookie.net/hollowknight/images/8/86/HJ_Soul_Warrior.png",
+        "name": "Guerrero del alma",
+        "description": "Insecto erudito que empuña una refinada aguja. Aumenta su destreza en combate con el alma reunida.",
+        "hunterComment": "A estos extraños guerreros les siguen susurros allí donde vayan. No solo son hábiles con el aguijón, sino que también pueden usar un poder extraño para pasar de repente de un lugar a otro. Permanece alerta.",
+        "img": "https://static.wikia.nocookie.net/hollowknight/images/0/0c/B_Soul_Warrior.png"
+      },
+      {
+        "id": 63,
+        "icon": "https://static.wikia.nocookie.net/hollowknight/images/0/0c/HJ_Soul_Master.png",
+        "name": "Maestro de Almas",
+        "description": "Líder del Santuario de Almas. Acumuló alma con la esperanza de mantener a raya el infortunio de Hallownest, pero terminó intoxicándose de su poder.",
+        "hunterComment": "Los insectos de Hallownest probaron todo tipo de trucos, rituales y plegarias para deshacerse de la infección. ¡Pero nada les dio resultado! Quizás la infección provenía de algo en su interior de lo que no podían escapar.",
+        "img": "https://static.wikia.nocookie.net/hollowknight/images/c/cf/B_Soulmaster.png"
+      },
+      {
+        "id": 64,
+        "icon": "https://static.wikia.nocookie.net/hollowknight/images/1/1a/HJ_Husk_Dandy.png",
+        "name": "Cáscara dandy",
+        "description": "Antiguo miembro de la alta sociedad de Hallownest. Su habilidad ofensiva es muy limitada.",
+        "hunterComment": "Parece ser que los miembros más débiles y codiciosos de Hallownest también eran los que ejercían más influencia. Ese reino siempre estaba abocado a su destrucción.",
+        "img": "https://static.wikia.nocookie.net/hollowknight/images/1/1b/B_Husk_Dandy.png"
+      },
+      {
+        "id": 65,
+        "icon": "https://static.wikia.nocookie.net/hollowknight/images/c/c4/HJ_Cowardly_Husk.png",
+        "name": "Cáscara cobarde",
+        "description": "Antiguo miembro de la alta sociedad de Hallownest. Aunque una fuerza en su interior hace que sea agresivo, sus antiguos instintos a veces le empujan a huir del peligro.",
+        "hunterComment": "¡La naturaleza temerosa y cobarde de estos insectos de Hallownest perdura incluso tras la muerte! Casi resulta vergonzoso perseguirlos y acabar con ellos.",
+        "img": "https://static.wikia.nocookie.net/hollowknight/images/5/5b/B_Cowardly_Husk.png"
+      },
+      {
+        "id": 66,
+        "icon": "https://static.wikia.nocookie.net/hollowknight/images/4/4c/HJ_Gluttonous_Husk.png",
+        "name": "Cáscara glotona",
+        "description": "Antiguo miembro de la alta sociedad de Hallownest. Usa su corpulento cuerpo como un arma.",
+        "hunterComment": "A medida que estos insectos se hacían más ricos, cazaban menos y consumían más, con lo que al final adoptaban una grotesca forma no muy alejada de la de una fruta demasiado madura.",
+        "img": "https://static.wikia.nocookie.net/hollowknight/images/d/dd/B_Gluttonous_Husk.png"
+      },
+      {
+        "id": 67,
+        "icon": "https://static.wikia.nocookie.net/hollowknight/images/8/8a/HJ_Gorgeous_Husk.png",
+        "name": "Restos brillantes",
+        "description": "Una carcasa corpulenta que lleva incrustado un metal resplandeciente. Conserva el instinto de acumular geo.",
+        "hunterComment": "Hay muchas cosas hermosas en el mundo. Los reflejos de la luz en el agua, el sabor de la presa a la que acabas de matar, el llanto de una cría que llama a su madre... Pero nunca he entendido el deseo de acumular metales y piedras.",
+        "img": "https://static.wikia.nocookie.net/hollowknight/images/3/30/B_Gorgeous_Husk.png"
+      },
+      {
+        "id": 68,
+        "icon": "https://static.wikia.nocookie.net/hollowknight/images/c/cd/HJ_Great_Husk_Sentry.png",
+        "name": "Gran cáscara centinela",
+        "description": "Los restos reanimados de un gran centinela, la élite de los guardias de la ciudad. Porta un gran aguijón y una coraza. Sus potentes ataques infligen mucho daño.",
+        "hunterComment": "Se trata de algo extremadamente raro, un insecto de Hallownest que supone una amenaza. Obsérvalos con cuidado, ya que pueden atacar súbitamente y propinar golpes devastadores.",
+        "img": "https://static.wikia.nocookie.net/hollowknight/images/6/63/B_Great_Husk_Sentry.png"
+      },
+      {
+        "id": 69,
+        "icon": "https://static.wikia.nocookie.net/hollowknight/images/5/54/HJ_Watcher_Knight.png",
+        "name": "Caballero vigía",
+        "description": "Coraza de un Caballero vigía, reanimada por un enjambre de moscas infectadas.",
+        "hunterComment": "Cuando estos silenciosos guerreros caen en batalla, sus cuerpos se abren y de ellos salen volando extraños insectos. Me pregunto qué saldrá volando de mí cuando muera. ¿Mis esperanzas y mis miedos saldrán disparados hasta perderse en la oscuridad?",
+        "img": "https://static.wikia.nocookie.net/hollowknight/images/9/9b/B_Watcher_Knight-2.png"
+      },
+      {
+        "id": 70,
+        "icon": "https://static.wikia.nocookie.net/hollowknight/images/6/61/HJ_The_Collector.png",
+        "name": "Coleccionista",
+        "description": "Esta sombra tenebrosa está encerrada en la Torre del Amor. Conserva a las criaturas de Hallownest en jarras de cristal, aunque está particularmente interesada en las larvas.",
+        "hunterComment": "Una sombra que se desliza por las cavernas realizando extraños sonidos. Nunca la he visto con claridad, así que no sé qué tipo de criatura es.",
+        "img": "https://static.wikia.nocookie.net/hollowknight/images/d/db/The_Collector_Idle.png"
+      },
+      {
+        "id": 71,
+        "icon": "https://static.wikia.nocookie.net/hollowknight/images/1/1d/HJ_Belfly.png",
+        "name": "Barrílula",
+        "description": "Sus finas alas ocultan una barriga muy volátil. Sacrificará su propia vida para proteger su territorio.",
+        "hunterComment": "Una criatura furiosa que no aprecia su propia vida. Una criatura sin miedo... ¿de verdad se le puede llamar «presa»?",
+        "img": "https://static.wikia.nocookie.net/hollowknight/images/7/77/B_Belfly.png"
+      },
+      {
+        "id": 72,
+        "icon": "https://static.wikia.nocookie.net/hollowknight/images/4/48/HJ_Pilflip.png",
+        "name": "Pilflip",
+        "description": "Extraña criatura que se adapta a los cambios de su entorno dándose la vuelta y utilizando las extremidades situadas al otro lado de su cuerpo.",
+        "hunterComment": "La adaptabilidad es una importante habilidad de supervivencia. Si un problema parece insuperable, prueba a afrontarlo desde un ángulo distinto.",
+        "img": "https://static.wikia.nocookie.net/hollowknight/images/b/b4/B_Pilflip.png"
+      },
+      {
+        "id": 73,
+        "icon": "https://static.wikia.nocookie.net/hollowknight/images/4/47/HJ_Hwurmp.png",
+        "name": "Hwurmp",
+        "description": "Diminuto y plácido, pero se hincha hasta adoptar un tamaño enorme cuando se siente amenazado.",
+        "hunterComment": "Una criatura extremadamente divertida.",
+        "img": "https://static.wikia.nocookie.net/hollowknight/images/5/59/B_Hwurmp.png"
+      },
+      {
+        "id": 74,
+        "icon": "https://static.wikia.nocookie.net/hollowknight/images/3/31/HJ_Bluggsac.png",
+        "name": "Saco vistoso",
+        "description": "Una criatura tranquila, pero repugnante. Guarda huevos podridos en sus entrañas.",
+        "hunterComment": "Resulta fácil de encontrar si se tiene sentido del olfato. Si encuentras uno de sus huevos, te recomiendo que no te lo comas.",
+        "img": "https://static.wikia.nocookie.net/hollowknight/images/6/69/B_Bluggsac.png"
+      },
+      {
+        "id": 75,
+        "icon": "https://static.wikia.nocookie.net/hollowknight/images/c/cd/HJ_Dung_Defender.png",
+        "name": "Defensor del Estiércol",
+        "description": "Un hábil guerrero que vive en el corazón de los Canales. Ataca a los intrusos con esferas compactas de estiércol.",
+        "hunterComment": "Luchar por «honor» o por «lealtad»... es lo mismo que luchar por cenizas. Si quieres matar, hazlo por tu propio bien. Así se comporta un auténtico cazador.",
+        "img": "https://static.wikia.nocookie.net/hollowknight/images/7/76/Dung_Defender_Idle.png"
+      },
+      {
+        "id": 76,
+        "icon": "https://static.wikia.nocookie.net/hollowknight/images/7/76/HJ_White_Defender.png",
+        "name": "Defensor Blanco",
+        "description": "RELLENAR",
+        "hunterComment": "RELLENAR",
+        "img": "https://cdn.wikimg.net/en/hkwiki/images/a/a7/B_White_Defender.png"
+      },
+      {
+        "id": 77,
+        "icon": "https://static.wikia.nocookie.net/hollowknight/images/b/bf/HJ_Flukefey.png",
+        "name": "Tremacría",
+        "description": "El más joven de su especie. Su cuerpo se compone de dientes, alas y estómago.",
+        "hunterComment": "Parece querer aferrarse a cualquier ser vivo que se le acerque con sus pequeños y afilados dientes. Aunque deja a los de su especie tranquilos, por lo que no es completamente descerebrado.",
+        "img": "https://static.wikia.nocookie.net/hollowknight/images/9/92/B_Flukefey.png"
+      },
+      {
+        "id": 78,
+        "icon": "https://static.wikia.nocookie.net/hollowknight/images/2/23/HJ_Flukemon.png",
+        "name": "Tremadora",
+        "description": "Criatura con forma de gusano que prefiere hábitats húmedos y oscuros.",
+        "hunterComment": "Enemigos peligrosos e impredecibles que infectan las tuberías de debajo de la capital de Hallownest. Incluso cuando parezca que los has matado, debes mantenerte alerta.",
+        "img": "https://static.wikia.nocookie.net/hollowknight/images/f/f3/B_Flukemon.png"
+      },
+      {
+        "id": 79,
+        "icon": "https://static.wikia.nocookie.net/hollowknight/images/2/2b/HJ_Flukemunga.png",
+        "name": "Tremaenorme",
+        "description": "Viejo trematodo, ha crecido gracias a los ricos desechos que se pueden encontrar en las tuberías bajo la capital.",
+        "hunterComment": "Cuando los depredadores tienen demasiado éxito la comida en exceso que comen se convierte en una fina capa pegada a sus cuerpos. Aun así, al menos, estas criaturas parecen hacer buen uso de su peso adicional.",
+        "img": "https://static.wikia.nocookie.net/hollowknight/images/6/61/B_Flukemunga.png"
+      },
+      {
+        "id": 80,
+        "icon": "https://static.wikia.nocookie.net/hollowknight/images/c/c0/HJ_Flukemarm.png",
+        "name": "Tremarmita",
+        "description": "Un reproductor insaciable. Ha poblado los Canales con los de su especie. Sus entrañas actúan como un nido para las jóvenes tremacrías.",
+        "hunterComment": "El deseo de reproducirse, de dejar atrás un recuerdo de nosotros en forma de un descendiente... parece estar bien impregnado en el corazón de toda criatura viva. Yo también he sentido el reclamo de ese instinto básico.",
+        "img": "https://static.wikia.nocookie.net/hollowknight/images/1/1b/B_Flukemarm.png"
+      },
+      {
+        "id": 81,
+        "icon": "https://static.wikia.nocookie.net/hollowknight/images/4/48/HJ_Shardmite.png",
+        "name": "Fragmentita",
+        "description": "Se alimenta de polvo de cristal y usa púas cristalizadas para protegerse del peligro.",
+        "hunterComment": "Esta criatura no me parece especialmente resaltable ni interesante. Debería aprender a volar, a respirar fuego o a cantar de forma espeluznante. Cualquier cosa que justificara su existencia.",
+        "img": "https://static.wikia.nocookie.net/hollowknight/images/b/ba/B_Shardmite.png"
+      },
+      {
+        "id": 82,
+        "icon": "https://static.wikia.nocookie.net/hollowknight/images/7/74/HJ_Glimback.png",
+        "name": "Brillomo",
+        "description": "Criatura dura y lenta. Los cristales que crecen en su lomo le confieren una protección extra ante los enemigos aéreos.",
+        "hunterComment": "De gran tamaño y bien protegido, aunque lento y dócil. Los insectos de Hallownest solían obligar a estas criaturas a tirar de sus carros y máquinas.",
+        "img": "https://static.wikia.nocookie.net/hollowknight/images/4/42/B_Glimback.png"
+      },
+      {
+        "id": 83,
+        "icon": "https://static.wikia.nocookie.net/hollowknight/images/1/1e/HJ_Crystal_Hunter.png",
+        "name": "Cazador de cristal",
+        "description": "Dispara fragmentos de cristales que crecen rápidamente a los intrusos.",
+        "hunterComment": "Hacen de la cima del mundo su hogar. ¿Usan sus cristales voluntariamente como armas o son simplemente huéspedes y los cristales, parásitos?",
+        "img": "https://static.wikia.nocookie.net/hollowknight/images/7/7b/B_Crystal_Hunter.png"
+      },
+      {
+        "id": 84,
+        "icon": "https://static.wikia.nocookie.net/hollowknight/images/f/f9/HJ_Crystal_Crawler.png",
+        "name": "Reptador de cristal",
+        "description": "Lanza rayos de luz abrasadores desde los cristales de su lomo mientras se arrastra, aunque no parece darse cuenta de ello.",
+        "hunterComment": "Estas criaturas pueden parecer débiles, pero a veces surgen ardientes pilares de calor de los cristales que llevan en sus lomos. ¡Ten cuidado y mide bien tus golpes!",
+        "img": "https://static.wikia.nocookie.net/hollowknight/images/6/6e/B_Crystal_Crawler.png"
+      },
+      {
+        "id": 85,
+        "icon": "https://static.wikia.nocookie.net/hollowknight/images/1/1b/HJ_Husk_Miner.png",
+        "name": "Cáscara minera",
+        "description": "Los restos de un insecto atraído a la Cumbre de Cristal por sus cristales preciosos. Su garra-pico también actúa como un arma feroz.",
+        "hunterComment": "Los insectos de Hallownest codiciaban las cosas más extrañas cuando vivían. Cavaban de forma furtiva en la tierra en busca de piedras, menas y, en especial, los cristales que crecen en la cima del mundo.",
+        "img": "https://static.wikia.nocookie.net/hollowknight/images/e/ec/B_Husk_Miner.png"
+      },
+      {
+        "id": 86,
+        "icon": "https://static.wikia.nocookie.net/hollowknight/images/b/b9/HJ_Crystallised_Husk.png",
+        "name": "Cáscara cristalizada",
+        "description": "Los restos de un insecto que murió entre los cristales. Reanimado por una extraña fuerza, ataca lanzando rayos de luz desde sus brazos cristalizados.",
+        "hunterComment": "Los cristales que crecen en las cumbres ocultan algún tipo de poder extraño. Centellean y brillan en la oscuridad, y cada uno tiene un punto brillante que emite un calor abrasador. También cantan, si los escuchas. Muy suavemente...",
+        "img": "https://static.wikia.nocookie.net/hollowknight/images/f/f6/B_Crystallised_Husk.png"
+      },
+      {
+        "id": 87,
+        "icon": "https://static.wikia.nocookie.net/hollowknight/images/5/5d/HJ_Crystal_Guardian.png",
+        "name": "Guardían de cristal",
+        "description": "RELLENAR",
+        "hunterComment": "RELLENAR",
+        "img": "https://static.wikia.nocookie.net/hollowknight/images/0/02/B_Crystal_Guardian.png"
+      },
+      {
+        "id": 88,
+        "icon": "https://static.wikia.nocookie.net/hollowknight/images/5/52/HJ_Furious_Vengefly.png",
+        "name": "Vengamosca colérica",
+        "description": "Vengamosca cuyo cuerpo se ha deformado a causa de la continua infección. Muy agresiva.",
+        "hunterComment": "La infección que pasa de una criatura a otra otorga fuerza y coraje, pero también parece esclavizar la voluntad. ¿Estarías dispuesto a aceptar un trato así?",
+        "img": "https://static.wikia.nocookie.net/hollowknight/images/6/69/B_Furious_Vengefly.png"
+      },
+      {
+        "id": 89,
+        "icon": "https://static.wikia.nocookie.net/hollowknight/images/c/c7/HJ_Volatile_Gruzzer.png",
+        "name": "Gruzzer volátil",
+        "description": "Gruzzer hinchado por la infección y a punto de explotar.",
+        "hunterComment": "Una horrible sustancia viscosa y gases nocivos han empezado a gotear desde arriba. ¿Existe una fuente de toda esta pestilencia? Si es así, yo no la he visto.",
+        "img": "https://static.wikia.nocookie.net/hollowknight/images/3/35/B_Voletila_Gruzzer.png"
+      },
+      {
+        "id": 90,
+        "icon": "https://static.wikia.nocookie.net/hollowknight/images/c/ce/HJ_Violent_Husk.png",
+        "name": "Cáscara violenta",
+        "description": "Enloquecido por una enorme infección. Se abalanza sobre los enemigos sin pensar en su propia seguridad.",
+        "hunterComment": "Los insectos de Hallownest quedaron completamente deformados a causa de esa antigua enfermedad. Primero se sumieron en un profundo sueño, después despertaron con las mentes rotas y, por último, sus cuerpos empezaron a mutar...",
+        "img": "https://static.wikia.nocookie.net/hollowknight/images/7/7d/B_Violent_Husk.png"
+      },
+      {
+        "id": 91,
+        "icon": "https://static.wikia.nocookie.net/hollowknight/images/c/c6/HJ_Slobbering_Husk.png",
+        "name": "Cáscara babeante",
+        "description": "El cuerpo de un insecto, completamente consumido por la infección. Escupe líquido corrosivo.",
+        "hunterComment": "La infección que asoló Hallownest hace tanto tiempo... dicen que cuanto más luchabas contra ella, más te consumía.",
+        "img": "https://static.wikia.nocookie.net/hollowknight/images/a/a3/Slobbering_Husk_idle.png"
+      },
+      {
+        "id": 92,
+        "icon": "https://static.wikia.nocookie.net/hollowknight/images/5/58/HJ_Dirtcarver.png",
+        "name": "Cavasuelos",
+        "description": "Depredador de Nido Profundo que se mueve en manada. Escarba en la tierra y emerge de ella para sorprender a su presa.",
+        "hunterComment": "Elásticos y despiadados, estos cazadores tratarán de abrumarte con sus números en las cavernas serpenteantes, estrechas y oscuras en las que hurgan en el suelo. ¡Permanece siempre alerta!",
+        "img": "https://static.wikia.nocookie.net/hollowknight/images/0/02/B_Dirtcarver.png"
+      },
+      {
+        "id": 93,
+        "icon": "https://static.wikia.nocookie.net/hollowknight/images/f/f4/HJ_Carver_Hatcher.png",
+        "name": "Eclosionador cavador",
+        "description": "Criatura voladora que dispara cavasuelos de su cuerpo cuando se le acerca una posible presa.",
+        "hunterComment": "¿Son estas criaturas las madres de los cavauelos? Solo parecen estar vagamente relacionados. ¿Pero cómo se meten los cavauelos dentro de los eclosionadores? Una situación confusa.",
+        "img": "https://static.wikia.nocookie.net/hollowknight/images/5/5f/B_Carver_Hatcher.png"
+      },
+      {
+        "id": 94,
+        "icon": "https://static.wikia.nocookie.net/hollowknight/images/5/54/HJ_Garpede.png",
+        "name": "Garpiés",
+        "description": "Excavador gigante cubierto de un caparazón hecho de gruesas placas. Viaja de forma incansable por los túneles de Nido Profundo.",
+        "hunterComment": "Son monstruosamente fuertes e inmunes a cualquier ataque sobre sus cuerpos fuertemente blindados. Por suerte, si te limitas a no cruzarte en sus caminos, te dejarán tranquilo.",
+        "img": "https://static.wikia.nocookie.net/hollowknight/images/e/e9/B_Garpede.png"
+      },
+      {
+        "id": 95,
+        "icon": "https://static.wikia.nocookie.net/hollowknight/images/5/51/HJ_Corpse_Creeper.png",
+        "name": "Trepacadáveres",
+        "description": "Bestia parasitaria que controla el cuerpo de su huésped incluso después de la muerte de este último.",
+        "hunterComment": "Las bestias de estos lugares han encontrado bastantes escondites ingeniosos, ¡pero ninguno tan inteligente como el cuerpo de otra criatura! Si te cruzas con un bicho así, ¡disfruta! ¡Habrás cazado dos criaturas a la vez!",
+        "img": "https://static.wikia.nocookie.net/hollowknight/images/3/37/B_Corpse_Creeper-2.png"
+      },
+      {
+        "id": 96,
+        "icon": "https://static.wikia.nocookie.net/hollowknight/images/5/5f/HJ_Deepling.png",
+        "name": "Necrocría",
+        "description": "Bebé de Nido Profundo. Se escabulle por la oscuridad, aprendiéndose la distribución de su hogar.",
+        "hunterComment": "Nido Profundo es un lugar peligroso para cazar, pero gratificante. Mantente alerta por si ves criaturas débiles que puedas comerte. Tienes que mantener la fuerza en la oscuridad.",
+        "img": "https://static.wikia.nocookie.net/hollowknight/images/a/a5/B_Deepling.png"
+      },
+      {
+        "id": 97,
+        "icon": "https://static.wikia.nocookie.net/hollowknight/images/4/42/HJ_Deephunter.png",
+        "name": "Necrocazador",
+        "description": "Se arrastra por paredes y techos y escupe veneno ardiente a todo el que pase por allí.",
+        "hunterComment": "Puede ser difícil de detectar, ya que se funden con la oscuridad y surgen de ella de repente. Busca sus ojos brillantes.",
+        "img": "https://static.wikia.nocookie.net/hollowknight/images/1/18/B_Deephunter.png"
+      },
+      {
+        "id": 98,
+        "icon": "https://static.wikia.nocookie.net/hollowknight/images/3/38/HJ_Little_Weaver.png",
+        "name": "Minitejedora",
+        "description": "Ágil araña que cruza sus dominios usando finos hilos de tela. Espera pacientemente para tender emboscadas.",
+        "hunterComment": "¡Puede aparecer en cualquier momento de entre las sombras! Parece que vuelan por el aire mientras se mueven por hilos invisibles para acechar a sus presas sin hacer ruido.",
+        "img": "https://static.wikia.nocookie.net/hollowknight/images/5/5b/B_Little_Weaver.png"
+      },
+      {
+        "id": 99,
+        "icon": "https://static.wikia.nocookie.net/hollowknight/images/0/0a/HJ_Stalking_Devout.png",
+        "name": "Devoto acechador",
+        "description": "Adoradores de Herrah, la Bestia. Se protegen con antegarras reforzadas y, luego, atacan súbitamente a su presa para acabar con ella.",
+        "hunterComment": "Poderosos, fuertemente blindados y rápidos, no son meras bestias. Estudia sus movimientos y busca detenidamente una apertura.",
+        "img": "https://static.wikia.nocookie.net/hollowknight/images/0/09/B_Stalking_Devout.png"
+      },
+      {
+        "id": 100,
+        "icon": "https://static.wikia.nocookie.net/hollowknight/images/0/01/HJ_Nosk.png",
+        "name": "Nosk",
+        "description": "Adopta la forma de otras criaturas para atraer presas a su guarida.",
+        "hunterComment": "En la oscuridad más profunda hay bestias con rostros robados de tu memoria que tratan de controlarte manipulando tus sentimientos. Conócete a ti mismo y no te dejes engañar.",
+        "img": "https://static.wikia.nocookie.net/hollowknight/images/a/a8/B_Nosk.png"
+      },
+      {
+        "id": 101,
+        "icon": "https://static.wikia.nocookie.net/hollowknight/images/7/73/HJ_Shadow_Creeper.png",
+        "name": "Trepasombras",
+        "description": "Solo se encuentra en lugares profundos y oscuros. Nunca se les ha visto comer ni beber nada.",
+        "hunterComment": "Este pequeño bicho es débil y no supone ninguna amenaza, pero tiene algo que me inquieta. La forma en que se mueve y los sonidos que emite son... extraños por algún motivo.",
+        "img": "https://static.wikia.nocookie.net/hollowknight/images/b/bf/B_Shadow_Creeper.png"
+      },
+      {
+        "id": 102,
+        "icon": "https://static.wikia.nocookie.net/hollowknight/images/c/c2/HJ_Lesser_Mawlek.png",
+        "name": "Mawlek inferior",
+        "description": "Ataca escupiendo ácido y cortando con sus antegarras.",
+        "hunterComment": "Si tratas de mantener la distancia, escupirá pegotes ardientes y pegajosos de repugnantes jugos estomacales. Acércate rápidamente y ataca con determinación.",
+        "img": "https://static.wikia.nocookie.net/hollowknight/images/9/90/B_Lesser_Mawlek.png"
+      },
+      {
+        "id": 103,
+        "icon": "https://static.wikia.nocookie.net/hollowknight/images/d/d6/HJ_Mawlurk.png",
+        "name": "Mawlurk",
+        "description": "Criatura grande e inmóvil. Escupe veneno de forma salvaje cuando algún intruso pasa a su lado.",
+        "hunterComment": "¡¿Cómo habrán perdido las patas estas insensatas criaturas?! Supongo que es posible perderlo todo si de verdad te esfuerzas.",
+        "img": "https://static.wikia.nocookie.net/hollowknight/images/c/c8/B_Mawlek1.png"
+      },
+      {
+        "id": 104,
+        "icon": "https://static.wikia.nocookie.net/hollowknight/images/b/b5/HJ_Brooding_Mawlek.png",
+        "name": "Mawlek incubador",
+        "description": "Una criatura feroz, aunque extremadamente social. Se vuelve agresiva si no puede relacionarse con los de su propia especie.",
+        "hunterComment": "Escucho a esta bestia gritar a veces mientras merodeo las cavernas, aunque nunca he posado mis ojos en ella. ¿A quién o qué está llamando? Por lo que yo sé, sus bramidos nunca obtienen respuesta.",
+        "img": "https://static.wikia.nocookie.net/hollowknight/images/4/42/B_Brooding_Mawlek2.png"
+      },
+      {
+        "id": 105,
+        "icon": "https://static.wikia.nocookie.net/hollowknight/images/5/5f/HJ_Lightseed.png",
+        "name": "Germen de luz",
+        "description": "Un organismo unicelular completamente infectado. Se escabulle de un lado a otro con una mente simple.",
+        "hunterComment": "Se ha estado filtrando un extraño aire de arriba durante años. Parte de ese aire se convirtió en líquido y parte de ese líquido, en carne, y parte de esa carne cobró vida. No sé qué pensar sobre ello.",
+        "img": "https://static.wikia.nocookie.net/hollowknight/images/1/15/B_Lightseed.png"
+      },
+      {
+        "id": 106,
+        "icon": "https://static.wikia.nocookie.net/hollowknight/images/9/90/HJ_Infected_Balloon.png",
+        "name": "Globo infectado",
+        "description": "Célula unica de infección. Posee una mente primitiva y puede flotar gracias a sus gases internos.",
+        "hunterComment": "La infección que recorre las venas muertas del reino... ¿es capaz de pensar? ¿Está dotada de alma? ¿Acaso está viva?",
+        "img": "https://static.wikia.nocookie.net/hollowknight/images/f/fc/B_Infected_Balloon.png"
+      },
+      {
+        "id": 107,
+        "icon": "https://static.wikia.nocookie.net/hollowknight/images/e/ef/HJ_Broken_Vessel.png",
+        "name": "Receptáculo Roto",
+        "description": "Cadáver destrozado, reanimado por parásitos infectados.",
+        "hunterComment": "La forma de esta criatura... He visto algo similar antes. Más de una vez, incluso. Se parece un poco a los insectos de Hallownest, pero no es exactamente igual. ¿De dónde han venido estos pequeños errantes vacíos?",
+        "img": "https://static.wikia.nocookie.net/hollowknight/images/5/57/Broken_Vessel_Idle.png"
+      },
+      {
+        "id": 108,
+        "icon": "https://static.wikia.nocookie.net/hollowknight/images/5/51/HJ_Boofly.png",
+        "name": "Bubélula",
+        "description": "Criatura grande y dócil que revolotea pacíficamente por las cavernas del Límite del Reino.",
+        "hunterComment": "Es demasiado lento para huir de ti y demasiado grande para ocultarse. Esta presa no supondrá ningún reto, pero a veces no está mal tomarse las cosas con más tranquilidad.",
+        "img": "https://static.wikia.nocookie.net/hollowknight/images/1/13/B_Boofly.png"
+      },
+      {
+        "id": 109,
+        "icon": "https://static.wikia.nocookie.net/hollowknight/images/c/c8/HJ_Primal_Aspid.png",
+        "name": "Aspid primigenio",
+        "description": "RELLENAR",
+        "hunterComment": "RELLENAR",
+        "img": "https://static.wikia.nocookie.net/hollowknight/images/3/39/B_Pirmal_Aspid.png"
+      },
+      {
+        "id": 110,
+        "icon": "https://static.wikia.nocookie.net/hollowknight/images/3/31/HJ_Hopper.png",
+        "name": "Saltamontes",
+        "description": "RELLENAR",
+        "hunterComment": "RELLENAR",
+        "img": "https://static.wikia.nocookie.net/hollowknight/images/5/5b/Hopper_In_Game.png"
+      },
+      {
+        "id": 111,
+        "icon": "https://static.wikia.nocookie.net/hollowknight/images/2/24/HJ_Great_Hopper.png",
+        "name": "Gran saltamontes",
+        "description": "RELLENAR",
+        "hunterComment": "RELLENAR",
+        "img": "https://static.wikia.nocookie.net/hollowknight/images/6/66/B_Great_Hopper.png"
+      },
+      {
+        "id": 112,
+        "icon": "https://static.wikia.nocookie.net/hollowknight/images/c/c4/HJ_Grub_Mimic.png",
+        "name": "Mímico larva",
+        "description": "Asume la forma de una criatura inofensiva para atraer a su presa.",
+        "hunterComment": "Atraer a un enemigo fingiendo ser una pequeña y débil larva. ¡Muy astuto! Por desgracia para ellos, me como estas larvas en cuanto las veo.",
+        "img": "https://static.wikia.nocookie.net/hollowknight/images/5/54/B_Grub_Mimic.png"
+      },
+      {
+        "id": 113,
+        "icon": "https://static.wikia.nocookie.net/hollowknight/images/6/6e/HJ_Hiveling.png",
+        "name": "Cría de la Colmena",
+        "description": "Los habitantes más pequeños de la Colmena. Realiza tareas simples.",
+        "hunterComment": "Débiles, pero trabajadores y numerosos. Sus cuerpos pequeños y peludos están rellenos de un líquido dorado, dulce y grueso. Viene bien llevar unos cuantos encima durante cacerías largas.",
+        "img": "https://static.wikia.nocookie.net/hollowknight/images/1/13/B_Hiveling.png"
+      },
+      {
+        "id": 114,
+        "icon": "https://static.wikia.nocookie.net/hollowknight/images/3/32/HJ_Hive_Soldier.png",
+        "name": "Soldado de la Colmena",
+        "description": "Defiende la Colmena contra intrusos con su aguijón extensible.",
+        "hunterComment": "Guerreros salvajes y determinados. Tendrás que estar preparado para luchar hasta la muerte con ellos si planeas invadir su hogar.",
+        "img": "https://static.wikia.nocookie.net/hollowknight/images/6/6e/B_Hive_Soldier.png"
+      },
+      {
+        "id": 115,
+        "icon": "https://static.wikia.nocookie.net/hollowknight/images/2/20/HJ_Hive_Guardian.png",
+        "name": "Guardían de la Colmena",
+        "description": "Protege la Colmena embistiendo a los intrusos con su enorme cuerpo.",
+        "hunterComment": "Como su pariente más pequeño, su único instinto es proteger la Colmena a cualquier coste para sí mismos. Son algo torpes y normalmente dañarán la estructura de la Colmena al cargar contra los intrusos. ¿Les traerá esto deshonra? No sé si tienen la capacidad de sentir algo así.",
+        "img": "https://static.wikia.nocookie.net/hollowknight/images/f/f1/B_Hive_Guardian.png"
+      },
+      {
+        "id": 116,
+        "icon": "https://static.wikia.nocookie.net/hollowknight/images/a/ad/HJ_Husk_Hive.png",
+        "name": "Cáscara de colmena",
+        "description": "Cáscara cobarde, cuyo cuerpo ha sido colonizado por las crías de la colmena.",
+        "hunterComment": "Las crías han formado su nido en torno a este pobre insecto o fue este último quien metió su cuerpo en el nido? En cualquier caso, parecen bastante felices juntos.",
+        "img": "https://static.wikia.nocookie.net/hollowknight/images/7/7f/B_Husk_Hive.png"
+      },
+      {
+        "id": 117,
+        "icon": "https://static.wikia.nocookie.net/hollowknight/images/0/0e/HJ_HiveKnight.png",
+        "name": "Caballero Colmena",
+        "description": "Protector leal de la Reina de la Colmena. No puede volar pero es feroz en combate.",
+        "hunterComment": "Algunas criaturas nacen con deberes y lealtadas marcadas imborrablemente en sus mentes. Son fuertes, pero también son esclavos.",
+        "img": "https://static.wikia.nocookie.net/hollowknight/images/a/a0/Hive_knight.png"
+      },
+      {
+        "id": 118,
+        "icon": "https://static.wikia.nocookie.net/hollowknight/images/0/04/HJ_Spiny_Husk.png",
+        "name": "Cáscara espinosa",
+        "description": "Desbordado por vegetación, ataca disparando afiladas espinas desde su cuerpo.",
+        "hunterComment": "Las espinas que dispara parecen ser ligeramente venenosas. ¡No las uses para mondarte los colmillos después de comer!",
+        "img": "https://static.wikia.nocookie.net/hollowknight/images/6/6c/B_Spiny_Husk.png"
+      },
+      {
+        "id": 119,
+        "icon": "https://static.wikia.nocookie.net/hollowknight/images/f/fc/HJ_Loodle.png",
+        "name": "Loodle",
+        "description": "Habita en las tierras salvajes junto a los Jardines de la Reina. Su naturaleza no es agresiva, pero sus continuos rebotes pueden ser peligrosos.",
+        "hunterComment": "¡Parecen tener una energía ilimitada! ¿Alguna vez se detienen a dormir, a comer o a amar?",
+        "img": "https://static.wikia.nocookie.net/hollowknight/images/f/f0/B_Loodle.png"
+      },
+      {
+        "id": 120,
+        "icon": "https://static.wikia.nocookie.net/hollowknight/images/9/93/HJ_Mantis_Petra.png",
+        "name": "Petramantis",
+        "description": "Acecha entre el follaje y ataca lanzando viento con forma de guadaña a distancia.",
+        "hunterComment": "Te atacarán desde lejos, así que acércate a ellos y golpea rápidamente. Sus cuerpos son frágiles y caerán rápidamente ante tu aguijón.",
+        "img": "https://static.wikia.nocookie.net/hollowknight/images/a/ae/B_Mantis_Petra.png"
+      },
+      {
+        "id": 121,
+        "icon": "https://static.wikia.nocookie.net/hollowknight/images/d/df/HJ_Mantis_Traitor.png",
+        "name": "Traidor mantis",
+        "description": "Antiguo miembro de la tribu mantis, ahora exiliado y alocado por la infección.",
+        "hunterComment": "Pertenecer a una tribu o no pertenecer. La verdad es que no entiendo cuál es la diferencia, ni cómo funciona. Yo no tengo tribu.",
+        "img": "https://static.wikia.nocookie.net/hollowknight/images/d/da/B_Mantis_Traitor.png"
+      },
+      {
+        "id": 122,
+        "icon": "https://static.wikia.nocookie.net/hollowknight/images/b/bc/HJ_Traitor_Lord.png",
+        "name": "Señor desleal",
+        "description": "Cacique destituido de la tribu mantis. Decidió aceptar la infección y se volvió contra sus hermanas.",
+        "hunterComment": "Yo también he sentido esa tentación. La tentación de dejar que la infección entre en mí. Sería más fuerte, más poderoso... esas ideas siguen emponzoñando mis sueños durante los momentos difíciles. Es una mentira, pero brilla tanto que puede confundir tu mente.",
+        "img": "https://static.wikia.nocookie.net/hollowknight/images/2/2c/B_Traitor_Lord.png"
+      },
+      {
+        "id": 123,
+        "icon": "https://static.wikia.nocookie.net/hollowknight/images/5/5c/HJ_Sharp_Baldur.png",
+        "name": "Baldur espinado",
+        "description": "Un baldur fortalecido, criado para combatir en el Coliseo de los Insensatos. Es más resistente y agresivo que su antecesor salvaje.",
+        "hunterComment": "Estas criaturas... Nunca he visto a una que haya alcanzado la madurez. Supongo que no se les permite vivir tanto.",
+        "img": "https://static.wikia.nocookie.net/hollowknight/images/c/c3/B_Sharp_baldur.png"
+      },
+      {
+        "id": 124,
+        "icon": "https://static.wikia.nocookie.net/hollowknight/images/3/33/HJ_Armoured_Squit.png",
+        "name": "Mosquito blindado",
+        "description": "RELLENAR",
+        "hunterComment": "RELLENAR",
+        "img": "https://static.wikia.nocookie.net/hollowknight/images/2/2c/B_Armoured_Squit.png"
+      },
+      {
+        "id": 125,
+        "icon": "https://static.wikia.nocookie.net/hollowknight/images/3/34/HJ_Battle_Obble.png",
+        "name": "Obble de guerra",
+        "description": "Se crió en el Coliseo. Aunque ha recibido entrenamiento para el combate, sus movimientos y sus ataques son algo torpes.",
+        "hunterComment": "¡Le han hecho una pequeña máscara! Me pregunto si vale para algo...",
+        "img": "https://static.wikia.nocookie.net/hollowknight/images/9/9a/B_Battle_Obble.png"
+      },
+      {
+        "id": 126,
+        "icon": "https://static.wikia.nocookie.net/hollowknight/images/8/81/HJ_Oblobble.png",
+        "name": "Oblobble",
+        "description": "Primo mayor del obble. Conserva a su pareja de por vida, y jamás la abandona.",
+        "hunterComment": "Tener una pareja a tu lado... alguien que no te dejará hasta su muerte. Curioso. Nunca ha encontrado a nadie que quiera permanecer a mi lado...",
+        "img": "https://static.wikia.nocookie.net/hollowknight/images/9/9a/B_Battle_Obble.png"
+      },
+      {
+        "id": 127,
+        "icon": "https://static.wikia.nocookie.net/hollowknight/images/b/b0/HJ_Shielded_Fool.png",
+        "name": "Insensato escudado",
+        "description": "Un guerrero que lucha en el Coliseo de los Insensatos para alcanzar la gloria. Se acerca cuidadosamente a sus rivales manteniendo su caparazón en alto.",
+        "hunterComment": "Este «Coliseo» es un lugar extraño en el que algunos insectos luchan a muerte mientras otros les observan. No entiendo estos extraños rituales. Si decides entrar, procura mantenerte en guardia.",
+        "img": "https://static.wikia.nocookie.net/hollowknight/images/3/38/B_Shielded_Fool.png"
+      },
+      {
+        "id": 128,
+        "icon": "https://static.wikia.nocookie.net/hollowknight/images/2/28/HJ_Sturdy_Fool.png",
+        "name": "Insensato fornido",
+        "description": "Un guerrero que lucha en el Coliseo de los Insensatos para alcanzar la gloria. Usa hojas con forma de luna creciente para acabar con sus rivales.",
+        "hunterComment": "¡Puedes golpear sus armas giratorias cuando estén en el aire para volverlas en su contra! Esto puede resultarte útil si te acorrala.",
+        "img": "https://static.wikia.nocookie.net/hollowknight/images/b/b9/B_Sturdy_Fool.png"
+      },
+      {
+        "id": 129,
+        "icon": "https://static.wikia.nocookie.net/hollowknight/images/6/63/HJ_Winged_Fool.png",
+        "name": "Insensato alado",
+        "description": "Un guerrero que lucha en el Coliseo de los Insensatos para alcanzar la gloria. Se aleja volando del alcance de su oponente y luego se lanza hacia él para darle un golpe mortal.",
+        "hunterComment": "¿Los luchadores que combaten en el Coliseo esperan conseguir algo? ¿Son esclavos, prisioneros o simplemente decidieron que querían luchar",
+        "img": "https://static.wikia.nocookie.net/hollowknight/images/a/ad/B_Winged_Fool.png"
+      },
+      {
+        "id": 130,
+        "icon": "https://static.wikia.nocookie.net/hollowknight/images/a/ad/HJ_Heavy_Fool.png",
+        "name": "Insensato pesado",
+        "description": "Un guerrero que lucha en el Coliseo de los Insensatos para alcanzar la gloria. Carga lleno de furia contra los enemigos.",
+        "hunterComment": "Grande y corpulento, lucha para conservar la vida. ¡No subestimes a este luchador! Puede moverse rápidamente a pesar de su tamaño. Además, detrás de esa máscara se oculta un rostro sorprendentemente hermoso.",
+        "img": "https://static.wikia.nocookie.net/hollowknight/images/b/ba/B_Heavy_Fool.png"
+      },
+      {
+        "id": 131,
+        "icon": "https://static.wikia.nocookie.net/hollowknight/images/d/d9/HJ_Death_Loodle.png",
+        "name": "Loodle letal",
+        "description": "Loodle equipado con un yelmo y entrenado para matar.",
+        "hunterComment": "Parecen muy fieros, pero tienen problemas a la hora de dirigir sus ataques. Observa atentamente sus movimientos y ataca en el momento adecuado. Llévate su yelmo como trofeo.",
+        "img": "https://static.wikia.nocookie.net/hollowknight/images/7/75/B_Death_loodle.png"
+      },
+      {
+        "id": 132,
+        "icon": "https://static.wikia.nocookie.net/hollowknight/images/7/76/HJ_Volt_Twister.png",
+        "name": "Tuercerrayos",
+        "description": "Insecto erudito que ha convertido las enseñanzas del Santuario de Almas en una técnica de combate letal. Ataca lanzando descargas eléctricas.",
+        "hunterComment": "Al parecer, solo se alimenta de lumélulas y pasa toda su vida luchando en la arena o meditando en solitario. Un enemigo peculiar.",
+        "img": "https://static.wikia.nocookie.net/hollowknight/images/5/53/B_Volt_Twister.png"
+      },
+      {
+        "id": 133,
+        "icon": "https://static.wikia.nocookie.net/hollowknight/images/9/92/HJ_God_Tamer.png",
+        "name": "Domador de Dioses",
+        "description": "Una guerrera veterana del Coliseo de los Insensatos. Lucha junto a las criaturas que ha entrenado.",
+        "hunterComment": "Algunos cazadores entrenan a bestias para que les acompañen cuando van tras sus presas. Una vez lo intenté, pero no pude resistir la tentación de comparar la fuerza de mi compañero con la mía.",
+        "img": "https://static.wikia.nocookie.net/hollowknight/images/d/d3/B_God_Tamer.png"
+      },
+      {
+        "id": 134,
+        "icon": "https://static.wikia.nocookie.net/hollowknight/images/7/71/HJ_Pale_Lurker.png",
+        "name": "Acechador Pálido",
+        "description": "Campeón olvidado de el Coliseo, alejado por obsesiones extrañas.",
+        "hunterComment": "Esta extraña criatura no es afectada ni es consciente de la enfermedad que hay a la deriva por las cavernas. Su locura es solo suya.",
+        "img": "https://static.wikia.nocookie.net/hollowknight/images/6/6b/B_Pale_Lurker.png"
+      },
+      {
+        "id": 135,
+        "icon": "https://static.wikia.nocookie.net/hollowknight/images/2/27/HJ_Zote.png",
+        "name": "Zote",
+        "description": "RELLENAR",
+        "hunterComment": "RELLENAR",
+        "img": "https://static.wikia.nocookie.net/hollowknight/images/e/ee/Zote_Idle.png"
+      },
+      {
+        "id": 136,
+        "icon": "https://static.wikia.nocookie.net/hollowknight/images/5/5d/HJ_Grey_Prince_Zote.png",
+        "name": "Principe Gris Zote",
+        "description": "RELLENAR",
+        "hunterComment": "RELLENAR",
+        "img": "https://static.wikia.nocookie.net/boss-fight-encyclopedia/images/5/5a/Grey_Prince_Zote_Idle.png"
+      },
+      {
+        "id": 137,
+        "icon": "https://static.wikia.nocookie.net/hollowknight/images/a/a1/HJ_Winged_Zoteling.png",
+        "name": "Zotito Alado",
+        "description": "RELLENAR",
+        "hunterComment": "RELLENAR",
+        "img": "https://static.wikia.nocookie.net/hollowknight/images/0/0b/Winged_Zoteling.png"
+      },
+      {
+        "id": 138,
+        "icon": "https://static.wikia.nocookie.net/hollowknight/images/7/70/HJ_Hopping_Zoteling.png",
+        "name": "Zotito Saltarín",
+        "description": "RELLENAR",
+        "hunterComment": "RELLENAR",
+        "img": "https://static.wikia.nocookie.net/hollowknight/images/8/88/Hopping_Zoteling.png"
+      },
+      {
+        "id": 139,
+        "icon": "https://static.wikia.nocookie.net/hollowknight/images/1/15/HJ_Volatile_Zoteling.png",
+        "name": "Zotito Volátil",
+        "description": "RELLENAR",
+        "hunterComment": "RELLENAR",
+        "img": "https://static.wikia.nocookie.net/hollowknight/images/9/90/Volatile_Zoteling.png"
+      },
+      {
+        "id": 140,
+        "icon": "https://static.wikia.nocookie.net/hollowknight/images/5/5d/HJ_Xero-0.png",
+        "name": "Xero",
+        "description": "Sueño persistente de un guerrero caído. Ejecutado por crímenes contra el rey.",
+        "hunterComment": "Una vida definida por la tragedia y el triunfo. Una muerte enturbiada por la pena y los remordimientos. Un espíritu atosigado por pecados y recuerdos. Mejor deambular por el mundo que ser maldecido con la gloria. \n-Xero",
+        "img": "https://static.wikia.nocookie.net/hollowknight/images/f/f9/HJ_Xero.png"
+      },
+      {
+        "id": 141,
+        "icon": "https://static.wikia.nocookie.net/hollowknight/images/9/9d/HJ_Gorb-0.png",
+        "name": "Gorb",
+        "description": "Sueño persistente de un guerrero caído. Una misteriosa forma de vida que afirmaba contener todo el conocimiento del mundo dentro de su dilatado cerebro.",
+        "hunterComment": "¡Soy Gorb!\n-Gorb",
+        "img": "https://static.wikia.nocookie.net/hollowknight/images/3/33/HJ_Gorb.png"
+      },
+      {
+        "id": 142,
+        "icon": "https://static.wikia.nocookie.net/hollowknight/images/d/dc/HJ_Elder_Hu-0.png",
+        "name": "Anciano Hu",
+        "description": "Sueño persistente de un guerrero caído. Viajó por el mundo cuidando de los aquejados por la plaga.",
+        "hunterComment": "Nunca olvides lo que una vez se perdió, pero tampoco dejes que te ate.\n- Anciano Hu",
+        "img": "https://static.wikia.nocookie.net/hollowknight/images/0/01/HJ_Elder_Hu.png"
+      },
+      {
+        "id": 143,
+        "icon": "https://static.wikia.nocookie.net/hollowknight/images/9/94/HJ_Marmu-0.png",
+        "name": "Marmu",
+        "description": "Sueño persistente de un guerrero caído. Protector de los Jardines de la Reina.",
+        "hunterComment": "Si crees en algo lo máximo que puedas, con los ojos completamente cerrados... ¡se terminará haciendo realidad!\n-Marmu",
+        "img": "https://static.wikia.nocookie.net/hollowknight/images/2/29/HJ_Marmu.png"
+      },
+      {
+        "id": 144,
+        "icon": "https://static.wikia.nocookie.net/hollowknight/images/f/f1/HJ_No_Eyes-0.png",
+        "name": "Sin Ojos",
+        "description": "Sueño persistente de un guerrero caído. Desapareció durante la plaga.",
+        "hunterComment": "Se están acercando...\nLo que tienes en tu interior...\n\n¡Sácalo!\n-Sin Ojos",
+        "img": "https://static.wikia.nocookie.net/hollowknight/images/5/5b/HJ_No_Eyes.png"
+      },
+      {
+        "id": 145,
+        "icon": "https://static.wikia.nocookie.net/hollowknight/images/3/39/HJ_Galien2.png",
+        "name": "Galien",
+        "description": "Sueño persistente de un guerrero caído. Entrenado en las tierras salvajes que bordean el reino con la esperanza de convertirse en un caballero.",
+        "hunterComment": "Un caballero no solo se esfuerza en proteger las tierras y a su gente, sino también las esperanzas y los sueños del reino.\n- Galien",
+        "img": "https://static.wikia.nocookie.net/hollowknight/images/e/ee/HJ_Galien.png"
+      },
+      {
+        "id": 146,
+        "icon": "https://static.wikia.nocookie.net/hollowknight/images/2/2c/HJ_Markoth-0.png",
+        "name": "Markoth",
+        "description": "Sueño persistente de un guerrero caído. El único miembro de su tribu olvidada que empuñó un arma.",
+        "hunterComment": "Que tus esfuerzos te lleven a algún lugar digno.\n-Markoth",
+        "img": "https://static.wikia.nocookie.net/hollowknight/images/4/4a/HJ_Markoth.png"
+      },
+      {
+        "id": 147,
+        "icon": "https://static.wikia.nocookie.net/hollowknight/images/4/4b/HJ_Flamebearer01.png",
+        "name": "Grimario Novato",
+        "description": "Joven y juguetón espíritu de la compañía de Grimm. Como parte del Ritual, recoge la llama escarlata en su linterna. Renunciará a la llama cuando sea derrotado.",
+        "hunterComment": "Las sombras sueñan con fuego eterno\nLlamas devoran ascuas en su descenso\n\nUno encenderá la Luz del Horror\nLlama y sirve en la Tropa del Terror\n\n- «La Compañía de Grimm»",
+        "img": "RELLENAR"
+      },
+      {
+        "id": 148,
+        "icon": "https://static.wikia.nocookie.net/hollowknight/images/e/e3/HJ_Flamebearer02.png",
+        "name": "Grimario Maestro",
+        "description": "Poderoso y devoto espíritu de la compañía de Grimm. Como parte del Ritual, recoge llama escarlata con su linterna. Renunciará a la llama cuando sea derrotado.",
+        "hunterComment": "Sueño oscuro, luces rojas, chispas danzan\nLa pesadilla escarlata, el salvaje brillo\n\nlas visiones bailan y las llamas hablan\n\nQuema al padre alimenta al niño\n\n- «La Compañía de Grimm»",
+        "img": "RELLENAR"
+      },
+      {
+        "id": 149,
+        "icon": "https://static.wikia.nocookie.net/hollowknight/images/c/ca/HJ_Flamebearer03.png",
+        "name": "Grimario Pesadilla",
+        "description": "Espíritu de una pesadilla terrorífica de la compañía de Grimm. Como parte del Ritual, recoge llama escarlata con su linterna. Renunciará a la llama cuando sea derrotado.",
+        "hunterComment": "Baila y muere y vive eternamente\nGritan y cantan voces silenciosas\n\nFrente al oscuro corazón latente\n\nEl Rey Pesadilla arde entre brasas\n\n- «La Compañía de Grimm»",
+        "img": "RELLENAR"
+      },
+      {
+        "id": 150,
+        "icon": "https://static.wikia.nocookie.net/hollowknight/images/6/6c/HJ_Grimm.png",
+        "name": "Grimm",
+        "description": "Maestro de la Compañía de Grimm",
+        "hunterComment": "Por la llamada de la linterna, a través de sueños yo viajo\nA consumir las llamas de un reino hecho pedazos.\n\n- Grimm",
+        "img": "https://static.wikia.nocookie.net/hollowknight/images/b/ba/Grimm_Idle.png"
+      },
+      {
+        "id": 151,
+        "icon": "https://static.wikia.nocookie.net/hollowknight/images/a/ab/HJ_Nightmare_King.png",
+        "name": "Rey Pesadilla",
+        "description": "Espectro retorcido de la llama escarlata.",
+        "hunterComment": "La expansión del sueño separada en el pasado, y un reino deberá estar alejado,\nEl rojo latente, los extremos más apagados. El corazón de la pesadilla. El sueño aterrorizado.\n\n- Vidente",
+        "img": "https://static.wikia.nocookie.net/hollowknight/images/0/09/B_Nightmare_King.png"
+      },
+      {
+        "id": 152,
+        "icon": "https://static.wikia.nocookie.net/hollowknight/images/1/1a/HJ_Brothers_Oro_%26_Mato.png",
+        "name": "Maestros de Aguijón Oro y Mato",
+        "description": "Hermanos del aguijón, entrenados en combate por el gran Sabio del aguijón.",
+        "hunterComment": "Dioses por trabajo y aguijón vinculados,\nHermanos que al débil protejen bajo juramento,\n\nMaestros de terrenos sagrados,\n\n¡Ayúdanos a encontrar a un Dios en nuestro intento! - Oración a los Maestros",
+        "img": "https://static.wikia.nocookie.net/hollowknight/images/d/d1/B_Oro_%26_Mato.png"
+      },
+      {
+        "id": 153,
+        "icon": "https://static.wikia.nocookie.net/hollowknight/images/4/44/HJ_Paintmaster_Sheo.png",
+        "name": "Maestro de Pinturas Sheo",
+        "description": "Habilidoso y respetado maestro del aguijón. Siempre entusiasmado por aprender cosas nuevas.",
+        "hunterComment": "¡Oh Dios inspirado, maestro de las artes,\nCuyos trabajos deben perdurar en el futuro,\n\nMira más allá de nuestros corazones y mentes,\n\nRevélanos el dios más puro! - Oración al Artista",
+        "img": "https://static.wikia.nocookie.net/hollowknight/images/9/96/B_Paintmaster_Sheo.png"
+      },
+      {
+        "id": 154,
+        "icon": "https://static.wikia.nocookie.net/hollowknight/images/3/35/HJ_Great_Nailsage_Sly.png",
+        "name": "Gran Sabio del Aguijón Sly",
+        "description": "Legendario sabio de las artes del aguijón y recientemente; mercader con algo de éxito",
+        "hunterComment": "¡Sabio Dios del astuto y el audaz,\nAfila nuestros aguijones y las probabilidades muéstranos,\n\nOh gran maestro, déjanos observar,\n\nA aquel aun mas grande, al más poderoso Dios!\n- Oración al Sabio",
+        "img": "https://static.wikia.nocookie.net/hollowknight/images/e/ea/B_Great_Nailsage_Sly.png"
+      },
+      {
+        "id": 155,
+        "icon": "https://static.wikia.nocookie.net/hollowknight/images/c/c4/HJ_Wingmould.png",
+        "name": "Carcasa alada",
+        "description": "Un ser artificial con alas que guarda un líquido oscuro dentro de su coraza blanca.",
+        "hunterComment": "Los insectos de Hallownest creen que su Rey creó este mundo y todo lo que contiene. ¿Con qué propósito, me pregunto? ¿Sus súbditos eran sus compañeros, sus juguetes, sus hijos...? Es imposible descifrar una mente como la suya.",
+        "img": "https://static.wikia.nocookie.net/hollowknight/images/c/c7/B_Wingmould.png"
+      },
+      {
+        "id": 156,
+        "icon": "https://static.wikia.nocookie.net/hollowknight/images/f/fd/HJ_Royal_Retainer.png",
+        "name": "Criado real",
+        "description": "Los sirvientes más leales y devotos del Rey.",
+        "hunterComment": "Las criaturas simples y débiles forman colmenas y obedecen a un rey para volverse fuertes. Esas criaturas se convierten en las patas, garras y colmillos de su monarca.",
+        "img": "https://static.wikia.nocookie.net/hollowknight/images/8/87/B_Royal_Retainer.png"
+      },
+      {
+        "id": 157,
+        "icon": "https://static.wikia.nocookie.net/hollowknight/images/2/22/HJ_Kingsmould.png",
+        "name": "Carcasa real",
+        "description": "Ser artificial, guardián del palacio de Hallownest y habilidoso portador de la garra hoz. Su pesada coraza blanca protege un cuerpo frágil.",
+        "hunterComment": "Dicen que el antiguo rey murió hace mucho tiempo, pero su influencia aún perdura entre nosotros. Una criatura así... ¿qué deseaba?",
+        "img": "https://static.wikia.nocookie.net/hollowknight/images/5/50/B_Kingsmould.png"
+      },
+      {
+        "id": 158,
+        "icon": "https://static.wikia.nocookie.net/hollowknight/images/d/d8/HJ_Sibling.png",
+        "name": "Hermano",
+        "description": "Fragmento de una voluntad que persiste.",
+        "hunterComment": "Muy por debajo de nosotros, en las profundidades del reino, el aire cada vez se mueve menos y se instala una sensación de vacío. ¿Puede florecer la vida allí? Si es así, la cazaré.",
+        "img": "https://static.wikia.nocookie.net/hollowknight/images/b/b3/B_Sibling.png"
+      },
+      {
+        "id": 159,
+        "icon": "https://static.wikia.nocookie.net/hollowknight/images/d/dc/HJ_Void_Tendrils.png",
+        "name": "Tentáculos del vacío",
+        "description": "Fragmentos del vacío convertidos en tentáculos afilados y lacerantes.",
+        "hunterComment": "Los insectos de Hallownest solían preguntarse si había otros reinos más antiguos y extraños bajo ellos. Tenían ideas realmente extrañas. Tal vez por eso siempre andaban distraídos y era tan fácil matarlos.",
+        "img": "https://static.wikia.nocookie.net/hollowknight/images/b/b3/B_Void_Tendrils.png"
+      },
+      {
+        "id": 160,
+        "icon": "https://static.wikia.nocookie.net/hollowknight/images/f/f2/HJ_Hornet.png",
+        "name": "Hornet",
+        "description": "Habilidosa protectora de las ruinas de Hallownest. Empuña una aguja e hilo.",
+        "hunterComment": "He visto a esta pequeña y ágil criatura. Pensé que era una presa y me abalancé sobre ella, pero, rápida como un rayo, me apuñaló con su aguijón volante y se fue disparada. ¿Podría ser... una cazadora?",
+        "img": "https://static.wikia.nocookie.net/hollowknight/images/1/16/Hornet_Idle.png"
+      },
+      {
+        "id": 161,
+        "icon": "https://static.wikia.nocookie.net/hollowknight/images/c/c2/HJ_Hollow_Knight.png",
+        "name": "Hollow Knight",
+        "description": "Receptáculo adulto que encierra al corazón de la plaga en su cuerpo.",
+        "hunterComment": "El antiguo Rey de Hallownest... llegó a tomar medidas desesperadas para salvar su pequeño mundo. Obligó a muchos a realizar tremendos sacrificios... y todo para nada.",
+        "img": "https://static.wikia.nocookie.net/hollowknight/images/1/12/B_Hollow_Knight.png"
+      },
+      {
+        "id": 162,
+        "icon": "https://static.wikia.nocookie.net/hollowknight/images/0/08/HJ_Pure_Vessel.png",
+        "name": "Vasija Pura",
+        "description": "Vasija elegida, criada y entrenada para su forma primigenia.",
+        "hunterComment": "¡El más profundo silencio en coraza sagrada,\nrecibió el aguijón y fue nombrado caballero,\n\nvasija hechizada en un huevo, sellada,\n\nEscucha nuestra plegaria! ¡Tu Luz queremos ver revelada! - Oración a la Vasija",
+        "img": "https://static.wikia.nocookie.net/hollowknight/images/e/e4/B_Pure_Vessel.png"
+      },
+      {
+        "id": 163,
+        "icon": "https://static.wikia.nocookie.net/hollowknight/images/3/3d/HJ_Radiance.png",
+        "name": "Destello",
+        "description": "La luz, olvidada hace mucho.",
+        "hunterComment": "La plaga, la infección, la locura que reanima los cadáveres de Hallownest... el brillo que surge de los ojos de un reino muerto. ¿De dónde procede? Supongo que es algo que está más allá del entendimiento de mortales como yo.",
+        "img": "https://static.wikia.nocookie.net/hollowknight/images/5/52/B_Radiance.png"
+      },
+      {
+        "id": 164,
+        "icon": "https://static.wikia.nocookie.net/hollowknight/images/9/96/HJ_Shade.png",
+        "name": "Sombra",
+        "description": "Eco de una vida anterior. Derrótala para obtener su poder y estar completo de nuevo.",
+        "hunterComment": "Cada uno de nosotros deja una huella cuando muere. Un mancha en el mundo. No creo que este reino pueda soportar el peso de tantas vidas pasadas durante mucho más tiempo...",
+        "img": "https://static.wikia.nocookie.net/hollowknight/images/a/af/Shade_Idle.png"
+      },
+      {
+        "id": 165,
+        "icon": "https://static.wikia.nocookie.net/hollowknight/images/e/ec/HJ_Hunters_Mark.png",
+        "name": "Marca de cazador",
+        "description": "La marca de un auténtico cazador.",
+        "hunterComment": "No tengo descendencia, ni súbditos ni adoradores. Esta es la suma de mi ser, mis conocimientos, mis instintos... Tómalo, te pertenece. Buena suerte, cazador.",
+        "img": "https://static.wikia.nocookie.net/hollowknight/images/c/ce/Hunters_Mark.png"
+      },
+      {
+        "id": 166,
+        "icon": "https://static.wikia.nocookie.net/hollowknight/images/a/a1/HJ_Weathered_Mask.png",
+        "name": "Máscara Desgastada",
+        "description": "Máscara extraña de una tierra sin dioses. Transmitida a lo largo de generaciones. El diseño sugiere que los pensamientos del portador se canalizaban a través del emblema.",
+        "hunterComment": "Dioses del Trueno. Dioses de la Lluvia. ¿Por qué abandonáis a vuesos sirvientes? ¿Nuestras mentes serán abandonadas al sufrimiento, a sufrir a solas? ¿Qué dios queda para salvarnos de nuestra silenciosa armonía?",
+        "img": "https://static.wikia.nocookie.net/hollowknight/images/4/4a/B_Weathered_Mask.png"
+      },
+      {
+        "id": 167,
+        "icon": "https://static.wikia.nocookie.net/hollowknight/images/1/13/HJ_Void_Idol.png",
+        "name": "Ídolo del Vacío",
+        "description": "Extraño artefacto procedente de un tiempo anterior a Hallownest, sus espiras gemelas adoptan una forma unificada. Contiene una gran cantidad de liquido del Abismo, perfectamente inmóvil.",
+        "hunterComment": "Inspirados o locos, esos antiguos insectos. Eran devotos de ningún señor, o poder, o fuerza, sino de la mismísima oscuridad.\n- Lemm",
+        "img": "https://static.wikia.nocookie.net/hollowknight/images/7/7d/B_Void_Idol.png"
+      },
+      {
+        "id": 168,
+        "icon": "https://cdn.wikimg.net/en/hkwiki/images/9/90/Seal_2.png",
+        "name": "Sello Vinculante",
+        "description": "Sello intrincado con un diseño antiguo.",
+        "hunterComment": "Usado para aprisionar una fuerza violenta, o proteger algo de gran importancia.",
+        "img": "https://static.wikia.nocookie.net/hollowknight/images/5/5f/B_Vessel_Seal.png"
+      }
+    ]
+}
+  
