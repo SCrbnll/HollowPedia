@@ -604,8 +604,8 @@
         "id": 76,
         "icon": "https://static.wikia.nocookie.net/hollowknight/images/7/76/HJ_White_Defender.png",
         "name": "Defensor Blanco",
-        "description": "RELLENAR",
-        "hunterComment": "RELLENAR",
+        "description": "Figura de un pasado recordado con afecto. Reacciona galantement ante la derrota volviéndose más fuerte",
+        "hunterComment": "\"La llamada del campeón, la arboleda enredada, la batalla del Wyrm Negro... Lo recuerdo todo. Me llevaré esa gloria conmigo siempre... hasta que nos vovlamos a encontrar\n- Ogrim de los Cinco Caballeros\"",
         "img": "https://cdn.wikimg.net/en/hkwiki/images/a/a7/B_White_Defender.png"
       },
       {
@@ -692,8 +692,8 @@
         "id": 87,
         "icon": "https://static.wikia.nocookie.net/hollowknight/images/5/5d/HJ_Crystal_Guardian.png",
         "name": "Guardían de cristal",
-        "description": "RELLENAR",
-        "hunterComment": "RELLENAR",
+        "description": "Corpulento minero de la Cumbre de Cristal cuyo cuerpo se ha visto superado por los cristales que le han crecido. Puede lanzar rayos de luz abrasadores desde sus extreminadades cristalizadas.",
+        "hunterComment": "¿Cómo verá el mundo esta criatura que lo mira a través de su prisión de cristal? ¿Sólo ve luz? ¿Es esp lo que lo enloquece de esa foram?",
         "img": "https://static.wikia.nocookie.net/hollowknight/images/0/02/B_Crystal_Guardian.png"
       },
       {
@@ -868,24 +868,24 @@
         "id": 109,
         "icon": "https://static.wikia.nocookie.net/hollowknight/images/c/c8/HJ_Primal_Aspid.png",
         "name": "Aspid primigenio",
-        "description": "RELLENAR",
-        "hunterComment": "RELLENAR",
+        "description": "Una forma más salvaje y ancestral del aspid. Se pensaba que se habían extinguido, pero han reaparecido en los límites del mundo.",
+        "hunterComment": "Estos crueles enemigos te emboscarán y atacarán incansablementecon su veneneo abrasador. Qué raro que sus descendientes sean tan débiles. Si tengo hijos, espero que sean más fuertes que yo...",
         "img": "https://static.wikia.nocookie.net/hollowknight/images/3/39/B_Pirmal_Aspid.png"
       },
       {
         "id": 110,
         "icon": "https://static.wikia.nocookie.net/hollowknight/images/3/31/HJ_Hopper.png",
         "name": "Saltamontes",
-        "description": "RELLENAR",
-        "hunterComment": "RELLENAR",
+        "description": "Se abalanzan sobre su presa y usa su afilada trompa para drenar fluidos vitales.",
+        "hunterComment": "La barriga de este ladrón saltarín está llena de la sangre que ha robado a otras bestias. Si lo pones sobre el fuego, la barriga crecerá y crecerá hasta que explote y de lugar a una lluvia humeante de fluidos.",
         "img": "https://static.wikia.nocookie.net/hollowknight/images/5/5b/Hopper_In_Game.png"
       },
       {
         "id": 111,
         "icon": "https://static.wikia.nocookie.net/hollowknight/images/2/24/HJ_Great_Hopper.png",
         "name": "Gran saltamontes",
-        "description": "RELLENAR",
-        "hunterComment": "RELLENAR",
+        "description": "Salta por los límites del mundo tratando de aplastar a su presa con su cuerpo.",
+        "hunterComment": "Un enemigo digno, sorprendentemente ágil para su tamaño. Mantén la distancia o trata de bailar entre sus saltos y golpear sus patas.",
         "img": "https://static.wikia.nocookie.net/hollowknight/images/6/66/B_Great_Hopper.png"
       },
       {
@@ -988,8 +988,8 @@
         "id": 124,
         "icon": "https://static.wikia.nocookie.net/hollowknight/images/3/33/HJ_Armoured_Squit.png",
         "name": "Mosquito blindado",
-        "description": "RELLENAR",
-        "hunterComment": "RELLENAR",
+        "description": "Un mosquito fortalecido, criado para combatir en el Coliseo de los Insensatos. Es más resistente y agresivo que su antecesor salvaje.",
+        "hunterComment": "¡Rápido y fuerte! ¡Cuando cojan impulso, prepárate para contraatacar o quítate de en medio!",
         "img": "https://static.wikia.nocookie.net/hollowknight/images/2/2c/B_Armoured_Squit.png"
       },
       {
@@ -1076,40 +1076,40 @@
         "id": 135,
         "icon": "https://static.wikia.nocookie.net/hollowknight/images/2/27/HJ_Zote.png",
         "name": "Zote",
-        "description": "RELLENAR",
-        "hunterComment": "RELLENAR",
+        "description": "Se ha autoproclamado caballero. Carece de prestigio. Blande un aguijón hecho de maderarmazón al que llama <<Terminavidas>>",
+        "hunterComment": "Existen ciertas criaturas que son tan débiles, inútiles, ineptas e irritantes que caz<arlas pierde todo el interés.",
         "img": "https://static.wikia.nocookie.net/hollowknight/images/e/ee/Zote_Idle.png"
       },
       {
         "id": 136,
         "icon": "https://static.wikia.nocookie.net/hollowknight/images/5/5d/HJ_Grey_Prince_Zote.png",
         "name": "Principe Gris Zote",
-        "description": "RELLENAR",
-        "hunterComment": "RELLENAR",
+        "description": "Producto de una mente obsesionada. Falto de gracia pero se vuelve más fuerte con cada derrota.",
+        "hunterComment": "Amor mío, cualquier critatura que pueda mantenerse lejos de ti, que voluntariamente te deje atrás o te diga cosas desagradables... ¡Bah! ¡Pobres gusanos, no merecen ni quedarse bajo tu gloriosa sombra!\nElla sintió su frío cuerpo calentarse, una sensación que casi había olvidado...\n-<<El Príncipe Gris>>",
         "img": "https://static.wikia.nocookie.net/boss-fight-encyclopedia/images/5/5a/Grey_Prince_Zote_Idle.png"
       },
       {
         "id": 137,
         "icon": "https://static.wikia.nocookie.net/hollowknight/images/a/a1/HJ_Winged_Zoteling.png",
         "name": "Zotito Alado",
-        "description": "RELLENAR",
-        "hunterComment": "RELLENAR",
+        "description": "Producto de una mente obsesionada. Asiste a su maestro a regañadientes volando perezosamente hacia los enemigos.",
+        "hunterComment": "Ella preguntó si le había comprado el Amuleto, como había prometido, pero entonces él lo explicó. El amuleto era realmente de baja calidad y no merecía la pena por aquel precio. Ella entendió la sabiduría de su decisión perfectamente\n<<El Príncipe Gris>>",
         "img": "https://static.wikia.nocookie.net/hollowknight/images/0/0b/Winged_Zoteling.png"
       },
       {
         "id": 138,
         "icon": "https://static.wikia.nocookie.net/hollowknight/images/7/70/HJ_Hopping_Zoteling.png",
         "name": "Zotito Saltarín",
-        "description": "RELLENAR",
-        "hunterComment": "RELLENAR",
+        "description": "Producto de una menete obsesionada. Salta de una manera poco amenazanate.",
+        "hunterComment": "\"¿La humilde esposa del cartógrafo? ¡Hah! Mi reina; ¿cómo puedes compararte con ella? ¡En la cara de tu belleza intoxicante las demás hembras son solamente polvo!\" El Príncipe Gris estaba temblando de ira e indignación... y amor.\n<<El Príncipe Gris>>",
         "img": "https://static.wikia.nocookie.net/hollowknight/images/8/88/Hopping_Zoteling.png"
       },
       {
         "id": 139,
         "icon": "https://static.wikia.nocookie.net/hollowknight/images/1/15/HJ_Volatile_Zoteling.png",
         "name": "Zotito Volátil",
-        "description": "RELLENAR",
-        "hunterComment": "RELLENAR",
+        "description": "Producto de una mente obsesionada. No soporta la presión de existir y explota rápidamente.",
+        "hunterComment": "El Príncipe Gris era errante por naturaleza, pero ella no podía soportar el separarse de él. Por lo que él ideó un plan para estar seguro de que ella y su príncipe estarían juntos por siempre. Ella solo tenía que esperar su oportunidad. \n<<El Príncipe Gris>>",
         "img": "https://static.wikia.nocookie.net/hollowknight/images/9/90/Volatile_Zoteling.png"
       },
       {
@@ -1174,7 +1174,7 @@
         "name": "Grimario Novato",
         "description": "Joven y juguetón espíritu de la compañía de Grimm. Como parte del Ritual, recoge la llama escarlata en su linterna. Renunciará a la llama cuando sea derrotado.",
         "hunterComment": "Las sombras sueñan con fuego eterno\nLlamas devoran ascuas en su descenso\n\nUno encenderá la Luz del Horror\nLlama y sirve en la Tropa del Terror\n\n- «La Compañía de Grimm»",
-        "img": "RELLENAR"
+        "img": "../assets/diary/Flamebearer01.png"
       },
       {
         "id": 148,
@@ -1182,7 +1182,7 @@
         "name": "Grimario Maestro",
         "description": "Poderoso y devoto espíritu de la compañía de Grimm. Como parte del Ritual, recoge llama escarlata con su linterna. Renunciará a la llama cuando sea derrotado.",
         "hunterComment": "Sueño oscuro, luces rojas, chispas danzan\nLa pesadilla escarlata, el salvaje brillo\n\nlas visiones bailan y las llamas hablan\n\nQuema al padre alimenta al niño\n\n- «La Compañía de Grimm»",
-        "img": "RELLENAR"
+        "img": "../assets/diary/Flamebearer02.png"
       },
       {
         "id": 149,
@@ -1190,7 +1190,7 @@
         "name": "Grimario Pesadilla",
         "description": "Espíritu de una pesadilla terrorífica de la compañía de Grimm. Como parte del Ritual, recoge llama escarlata con su linterna. Renunciará a la llama cuando sea derrotado.",
         "hunterComment": "Baila y muere y vive eternamente\nGritan y cantan voces silenciosas\n\nFrente al oscuro corazón latente\n\nEl Rey Pesadilla arde entre brasas\n\n- «La Compañía de Grimm»",
-        "img": "RELLENAR"
+        "img": "../assets/diary/Flamebearer03.png"
       },
       {
         "id": 150,

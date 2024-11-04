@@ -17,7 +17,8 @@ body {
     border-radius: 10px;
     padding: 20px;
     overflow-y: auto;
-    max-height: 450px;
+    max-height: 700px;
+    font-family: 'Inknut Antiqua', serif;
 }
 
 .entity-item {
@@ -52,6 +53,7 @@ body {
 
 .entity-image {
     width: 554px;
+    max-height: 700px;
     background-color: rgba(45, 0, 77, 0.85);
     display: flex;
     justify-content: center;
@@ -66,7 +68,7 @@ body {
 }
 
 .entity-image img {
-    width: 150px;
+    width: 200px;
     height: auto;
     transition: transform 0.3s ease;
 }
@@ -79,14 +81,17 @@ body {
 
 .entity-description {
     width: 554px;
+    max-height: 700px;
     background-color: rgba(45, 0, 77, 0.7);
     padding: 20px;
     border-radius: 10px;
     align-items: center;
     text-align: center;
-    text-wrap: balance;
     font-size: 20px;
     font-family: 'Inknut Antiqua', serif;
+    display: flex;
+    flex-direction: column;
+    overflow-y: auto;
 }
 
 .entity-description h2 {
@@ -95,12 +100,12 @@ body {
 }
 
 .separator-img {
-    display: block;
     margin: 20px auto;
     width: 300px;
     height: 50px;
 }
 
 .entity-description p {
-    font-size: 16px;
+    font-size: 18px;
 }
+
