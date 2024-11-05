@@ -1,14 +1,17 @@
 <!DOCTYPE html>
 <html lang="es">
+
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Hollowpedia - Guías</title>
+    <title>Hollowpedia - Noticias</title>
     <link rel="stylesheet" href="../styles.css">
+    <link rel="stylesheet" href="../css/stylesNews.css">
     <link rel="preconnect" href="https://fonts.googleapis.com">
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
     <link href="https://fonts.googleapis.com/css2?family=Inknut+Antiqua&display=swap" rel="stylesheet">
 </head>
+
 <body>
     <header>
         <div class="logo-container">
@@ -24,10 +27,27 @@
             </ul>
         </nav>
     </header>
-    
+
     <main>
+        <section class="news-content">
+            <aside class="filters">
+                <h2>Filtros</h2>
+                <div class="filter-section">
+                    <h3>Categoría</h3>
+                    <label><input type="checkbox" name="category" value="actualidad"> Actualidad</label>
+                    <label><input type="checkbox" name="category" value="análisis"> Análisis</label>
+                    <label><input type="checkbox" name="category" value="entrevistas"> Entrevistas</label>
+                    <label><input type="checkbox" name="category" value="opinión"> Opinión</label>
+                </div>
+            </aside>
 
+            <div class="news-list">
+                
+            </div>
+        </section>
     </main>
-</body>
-</html>
 
+    <script src="../js/news.js"></script> 
+</body>
+
+</html>
