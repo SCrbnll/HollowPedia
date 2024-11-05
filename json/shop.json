@@ -1,0 +1,61 @@
+{
+    "products": [
+      {
+        "id": 1,
+        "img": "https://via.placeholder.com/150",
+        "name": "Producto 1",
+        "category": "categoría del producto",
+        "description": "descripción del producto"
+      },
+      {
+        "id": 2,
+        "img": "https://via.placeholder.com/150",
+        "name": "Producto 2",
+        "category": "categoría del producto",
+        "description": "descripción del producto"
+      },
+      {
+        "id": 3,
+        "img": "https://via.placeholder.com/150",
+        "name": "Producto 3",
+        "category": "categoría del producto",
+        "description": "descripción del producto"
+      },
+      {
+        "id": 4,
+        "img": "https://via.placeholder.com/150",
+        "name": "Producto 4",
+        "category": "categoría del producto",
+        "description": "descripción del producto"
+      },
+      {
+        "id": 5,
+        "img": "https://via.placeholder.com/150",
+        "name": "Producto 5",
+        "category": "categoría del producto",
+        "description": "descripción del producto"
+      },
+      {
+        "id": 6,
+        "img": "https://via.placeholder.com/150",
+        "name": "Producto 6",
+        "category": "categoría del producto",
+        "description": "descripción del producto"
+      },
+      {
+        "id": 7,
+        "img": "https://via.placeholder.com/150",
+        "name": "Producto 7",
+        "category": "categoría del producto",
+        "description": "descripción del producto"
+      },
+      {
+        "id": 8,
+        "img": "https://via.placeholder.com/150",
+        "name": "Producto 8",
+        "category": "categoría del producto",
+        "description": "descripción del producto"
+      }
+    ]
+  }
+  
