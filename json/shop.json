@@ -2,59 +2,187 @@
     "products": [
       {
         "id": 1,
-        "img": "https://via.placeholder.com/150",
-        "name": "Producto 1",
-        "category": "categoría del producto",
-        "description": "descripción del producto"
+        "img": "https://www.fangamer.com/cdn/shop/files/product_HK_knight_resin_statue_itemview_41ce7f8e-661a-4442-bebb-6333689f862e_720x720.png",
+        "name": "Figura de Resina - El Caballero",
+        "category": "figuras",
+        "description": "descripción del producto",
+        "price": "36€"
       },
       {
         "id": 2,
-        "img": "https://via.placeholder.com/150",
-        "name": "Producto 2",
-        "category": "categoría del producto",
-        "description": "descripción del producto"
+        "img": "https://www.fangamer.com/cdn/shop/files/product_HK_hornet_resin_statue_itemview_9f25c30c-c044-4f98-a3eb-d0648c3d407e_720x720.png",
+        "name": "Figura de Resina - Hornet",
+        "category": "figuras",
+        "description": "descripción del producto",
+        "price": "36€"
       },
       {
         "id": 3,
-        "img": "https://via.placeholder.com/150",
-        "name": "Producto 3",
-        "category": "categoría del producto",
-        "description": "descripción del producto"
+        "img": "https://www.fangamer.com/cdn/shop/files/product_HK_mini_figurines_itemview_new_720x720.png",
+        "name": "Hollow Knight - Mini Figuras",
+        "category": "figuras",
+        "description": "descripción del producto",
+        "price": "88€"
       },
       {
         "id": 4,
-        "img": "https://via.placeholder.com/150",
-        "name": "Producto 4",
-        "category": "categoría del producto",
-        "description": "descripción del producto"
+        "img": "https://www.fangamer.com/cdn/shop/files/product_hkce_combined_itemview_bb96a39e-850b-433b-96ab-e2b99eebbac0_720x720.png",
+        "name": "Hollow Knight Edición Coleccionista",
+        "category": "juegos",
+        "description": "descripción del producto",
+        "price": "74€-79€"
       },
       {
         "id": 5,
-        "img": "https://via.placeholder.com/150",
-        "name": "Producto 5",
-        "category": "categoría del producto",
-        "description": "descripción del producto"
+        "img": "https://www.fangamer.com/cdn/shop/files/hollowknightphysicalgameitemview_720x720.png",
+        "name": "Hollow Knight Edición Estandar",
+        "category": "juegos",
+        "description": "descripción del producto",
+        "price": "29€-35€"
       },
       {
         "id": 6,
-        "img": "https://via.placeholder.com/150",
-        "name": "Producto 6",
-        "category": "categoría del producto",
-        "description": "descripción del producto"
+        "img": "https://www.fangamer.com/cdn/shop/files/product_HK_wandererer_journal_itemview_new_new_720x720.png",
+        "name": "Diário del Vagabundo",
+        "category": "libros",
+        "description": "descripción del producto",
+        "price": "32€"
       },
       {
         "id": 7,
-        "img": "https://via.placeholder.com/150",
-        "name": "Producto 7",
-        "category": "categoría del producto",
-        "description": "descripción del producto"
+        "img": "https://www.fangamer.com/cdn/shop/files/hollowknightvinylsoundtrackitemview_720x720.png",
+        "name": "Vinilo Soundtrack - Hollow Knight",
+        "category": "música",
+        "description": "descripción del producto",
+        "price": "39€"
       },
       {
         "id": 8,
-        "img": "https://via.placeholder.com/150",
-        "name": "Producto 8",
-        "category": "categoría del producto",
-        "description": "descripción del producto"
+        "img": "https://www.fangamer.com/cdn/shop/files/hollowknightgods_nightmaresvinylitemview_720x720.png",
+        "name": "Vinilo Knight Gods & Nightmares Soundtrack - Hollow Knight",
+        "category": "música",
+        "description": "descripción del producto",
+        "price": "29€"
+      },
+      {
+        "id": 9,
+        "img": "https://www.fangamer.com/cdn/shop/files/product_HK_HK_plush_itemview_720x720.png",
+        "name": "Peluche Hollow Knight",
+        "category": "peluches",
+        "description": "descripción del producto",
+        "price": "28€"
+      },
+      {
+        "id": 10,
+        "img": "https://www.fangamer.com/cdn/shop/files/product_hk_plush_itemview_new_720x720.png",
+        "name": "Peluche El Caballero",
+        "category": "peluches",
+        "description": "descripción del producto",
+        "price": "28€"
+      },
+      {
+        "id": 11,
+        "img": "https://www.fangamer.com/cdn/shop/files/hornetplushitemview_720x720.png",
+        "name": "Peluche Hornet",
+        "category": "peluches",
+        "description": "descripción del producto",
+        "price": "28€"
+      },
+      {
+        "id": 12,
+        "img": "https://www.fangamer.com/cdn/shop/files/product_hk_grub_plush_itemview2_94240fb9-fdb8-47ca-a5c9-2bd160219fa0_new_720x720.png",
+        "name": "Peluche Oruga",
+        "category": "peluches",
+        "description": "descripción del producto",
+        "price": "32€"
+      },
+      {
+        "id": 13,
+        "img": "https://www.fangamer.com/cdn/shop/files/product_HK_quirrel_plush_itemview_new_720x720.png",
+        "name": "Peluche Quirrel",
+        "category": "peluches",
+        "description": "descripción del producto",
+        "price": "28€"
+      },
+      {
+        "id": 14,
+        "img": "https://www.fangamer.com/cdn/shop/files/product_HK_grimm_plush_itemview_new_720x720.png",
+        "name": "Peluche Grimm",
+        "category": "peluches",
+        "description": "descripción del producto",
+        "price": "28€"
+      },
+      {
+        "id": 15,
+        "img": "https://www.fangamer.com/cdn/shop/files/product_hk_wanderer_itemview_51b3626f-9b2d-46b1-b425-0e87f02596a5_new_720x720.png",
+        "name": "Pin de El Caballero",
+        "category": "pines",
+        "description": "descripción del producto",
+        "price": "10€"
+      },
+      {
+        "id": 16,
+        "img": "https://www.fangamer.com/cdn/shop/files/product_HK_hornet_lapel_itemview_new_720x720.png",
+        "name": "Pin de Hornet",
+        "category": "pines",
+        "description": "descripción del producto",
+        "price": "10€"
+      },
+      {
+        "id": 17,
+        "img": "https://www.fangamer.com/cdn/shop/files/product_HK_grub_lapel_itemview_2cdcc35c-7681-440a-be34-311babcf0eb9_new_720x720.png",
+        "name": "Pin de Oruga",
+        "category": "pines",
+        "description": "descripción del producto",
+        "price": "10€"
+      },
+      {
+        "id": 18,
+        "img": "https://www.fangamer.com/cdn/shop/files/product_hk_grimm_lapel_itemview_new_720x720.png",
+        "name": "Pin de Grimm",
+        "category": "pines",
+        "description": "descripción del producto",
+        "price": "10€"
+      },
+      {
+        "id": 19,
+       "img": "https://www.fangamer.com/cdn/shop/files/product_HK_zote_lapel_itemview_66dea7e4-151a-46ef-a5d4-afd2eeffe0c2_new_720x720.png",
+        "name": "Pin de Zote",
+        "category": "pines",
+        "description": "descripción del producto",
+        "price": "10€"
+      },
+      {
+        "id": 20,
+        "img": "https://www.fangamer.com/cdn/shop/files/product_HK_quirrel_lapel_itemview_new_720x720.png",
+        "name": "Pin de Quirrel",
+        "category": "pines",
+        "description": "descripción del producto",
+        "price": "10€"
+      },
+      {
+        "id": 21,
+        "img": "https://www.fangamer.com/cdn/shop/files/product_HK_vessel_hoodie_custom_itemview_720x720.png",
+        "name": "Sudadera Vasija",
+        "category": "ropa",
+        "description": "descripción del producto",
+        "price": "69€"
+      },
+      {
+        "id": 22,
+        "img": "https://www.fangamer.com/cdn/shop/files/product_hk_vessel_shirt_itemview_26db9941-be76-46c4-bcb0-7a1ddc6ff5f7_new_720x720.png",
+        "name": "Camiseta Vasija",
+        "category": "ropa",
+        "description": "descripción del producto",
+        "price": "36€"
+      },
+      {
+        "id": 23,
+        "img": "https://www.fangamer.com/cdn/shop/files/product_HK_troupe_master_shirt_itemview_2fa1b095-9ec1-4fa3-9fb4-e13294ff70fd_new_720x720.png",
+        "name": "Camiseta Maestro de la compañía",
+        "category": "ropa",
+        "description": "descripción del producto",
+        "price": "36€"
       }
     ]
   }
