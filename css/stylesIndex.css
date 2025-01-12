@@ -1,9 +1,9 @@
-nav {
-    background-color: #2D004D;
-    padding: 10px 0;
-    border-radius: 10px;
+header h1 {
+    font-size: 28px;
     font-family: 'Inknut Antiqua', serif;
+    margin: 0 20px
 }
+
 .header-title {
     display: flex;
     justify-content: center;
@@ -21,6 +21,7 @@ nav {
     height: 134px;
 
 }
+
 .reverse {
     transform: scaleX(-1);
 }
@@ -30,7 +31,7 @@ nav {
     border-radius: 10px;
 }
 
-.news-section h2{
+.news-section h2 {
     font-family: 'Inknut Antiqua', serif;
     font-size: 28px;
     margin-bottom: 20px;
@@ -96,4 +97,35 @@ nav {
 .meme img {
     width: 330px;
     border-radius: 10px;
+}
+
+@media (max-width: 767px) {
+    .gif-container img {
+        width: 100px;
+        height: 100px;
+    }
+    .header-title h1 {
+        font-size: 24px;
+    }
+
+    .news-item {
+        padding: 10px;
+        margin-bottom: 20px;
+
+        img {
+           height: auto;
+       }
+
+       h3 {
+           font-size: 18px;
+       }
+       
+       p {
+          font-size: 14px;
+      }
+    }
+
+    .about-us p {
+        font-size: 14px;
+    }
 }
