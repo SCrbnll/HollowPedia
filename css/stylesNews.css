@@ -2,23 +2,11 @@ body {
     overflow-y: hidden;
 }
 
-.news-content {
-    display: flex;
-    justify-content: space-between;
-    padding: 20px;
-    max-width: 1762px;
-    margin: 0 auto;
-    gap: 20px;
-}
-
 .filters {
-    width: 260px;
-    height: 700px; /* Puedes ajustar esta altura si es necesario */
-    background-color: rgba(45, 0, 77, 0.7);
+    height: 700px;
+    background-color: #2d004db3;
     padding: 20px;
     border-radius: 10px;
-    position: sticky;
-    top: 0; 
 }
 
 .filters h2 {
@@ -38,11 +26,10 @@ label {
 }
 
 .news-list {
-    flex-grow: 1;
     max-height: 700px; 
     overflow-y: auto; 
     padding: 20px; 
-    background-color: rgba(45, 0, 77, 0.7); 
+    background-color: #2d004db3; 
     border-radius: 10px; 
 }
 
@@ -59,10 +46,6 @@ label {
     height: auto;
     border-radius: 5px;
     margin-right: 10px;
-}
-
-.text-container {
-    flex-grow: 1; 
 }
 
 .news-item h3 {
