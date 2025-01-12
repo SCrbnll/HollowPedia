@@ -53,7 +53,7 @@ label {
     grid-template-columns: repeat(4, 1fr);
     gap: 20px;
     width: calc(100% - 280px);
-    max-height: 738px; 
+    max-height: 700px; 
     overflow-y: auto;
     padding-right: 10px;
 }
