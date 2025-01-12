@@ -1,3 +1,9 @@
+nav {
+    background-color: #2D004D;
+    padding: 10px 0;
+    border-radius: 10px;
+    font-family: 'Inknut Antiqua', serif;
+}
 .header-title {
     display: flex;
     justify-content: center;
@@ -5,7 +11,7 @@
 }
 
 .header-title h1 {
-    font-size: 48px;
+    font-size: 32px;
     font-family: 'Inknut Antiqua', serif;
     margin: 0 20px;
 }
@@ -19,19 +25,8 @@
     transform: scaleX(-1);
 }
 
-.main-content {
-    display: flex;
-    justify-content: space-between;
-    gap: 20px;
-    padding: 20px;
-    max-width: 1762px;
-    margin: 0 auto;
-}
-
 .news-section {
-    width: 1138px;
     background-color: #2D004D;
-    padding: 20px;
     border-radius: 10px;
 }
 
@@ -42,9 +37,8 @@
 }
 
 .news-item {
-    margin-bottom: 20px;
     background-color: #1A1F46;
-    padding: 10px;
+    padding: 5px;
     border-radius: 5px;
 }
 
@@ -71,16 +65,9 @@
 .btn-read-more {
     padding: 10px 10px;
     background-color: #FABEFF;
-    color: #000;
     text-decoration: none;
     border-radius: 5px;
     font-family: 'Inknut Antiqua', serif;
-    width: auto;
-    height: 40px;
-}
-
-.sidebar {
-    width: 590px;
 }
 
 .about-us {
@@ -107,6 +94,6 @@
 }
 
 .meme img {
-    width: 100%;
+    width: 330px;
     border-radius: 10px;
 }
