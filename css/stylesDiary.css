@@ -1,16 +1,3 @@
-body {
-    overflow-y: hidden;
-}
-
-.diary-content {
-    display: flex;
-    justify-content: space-between;
-    padding: 10px;
-    max-width: 1762px;
-    margin: 0 auto;
-    gap: 50px;
-}
-
 .entity-list {
     width: 554px;
     background-color: rgba(45, 0, 77, 0.7);
