@@ -108,6 +108,10 @@ header h1 {
         font-size: 24px;
     }
 
+    .news-section h2 {
+        font-size: 20px;
+    }
+
     .news-item {
         padding: 10px;
         margin-bottom: 20px;
@@ -127,5 +131,12 @@ header h1 {
 
     .about-us p {
         font-size: 14px;
+    }
+
+    .about-us {
+        background-color: #2D004D;
+        padding: 20px;
+        margin-bottom: 20px;
+        border-radius: 10px;
     }
 }
