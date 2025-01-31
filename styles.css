@@ -44,12 +44,12 @@ nav ul li a {
     font-size: 20px;
     font-family: 'Inknut Antiqua', serif;
 
-    &:hover {
-        color: #FABEFF;
+   &:hover {
+        color: #FABEFF !important;
     }
 }
 
 nav ul li a.active {
-    color: #FABEFF;
+    color: #FABEFF !important;
     text-decoration: underline;
 }
