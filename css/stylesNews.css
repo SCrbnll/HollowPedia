@@ -57,3 +57,11 @@ label {
 .news-item p {
     font-size: 14px; 
 }
+
+@media (max-width: 767px) {
+    .news-list {
+        max-height: 450px;
+    }
+}
+
+
