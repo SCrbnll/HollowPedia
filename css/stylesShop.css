@@ -92,3 +92,11 @@ label {
     color: #FABEFF;
     align-self: flex-end;
 }
+
+@media (max-width: 767px) {
+    .product-list {
+        max-height: 400px;
+        grid-template-columns: repeat(2, 1fr);
+        gap: 10px;
+    }
+}
