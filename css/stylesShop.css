@@ -101,7 +101,14 @@ label {
     align-self: flex-end;
 }
 
-@media (max-width: 767px) {
+@media (max-width: 1000px) {
+    .product-card {
+        max-height: 300px;
+    }
+
+}
+
+@media (max-width: 575px) {
     .product-list {
         max-height: 400px;
         grid-template-columns: repeat(2, 1fr);
