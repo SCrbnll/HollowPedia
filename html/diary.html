@@ -15,35 +15,59 @@
             <div class="logo-container">
                 <img src="../assets/Logo.png" alt="Logotipo" class="logo">
             </div>
-            <nav class="col-12 mt-3 d-flex justify-content-center">
-                <ul class="nav">
-                    <li class="nav-item"><a href="../index.html" class="nav-link text-white">Inicio</a></li>
-                    <li class="nav-item"><a href="../html/news.html" class="nav-link text-white">Noticias</a></li>
-                    <li class="nav-item"><a href="../html/map.html" class="nav-link text-white ">Mapa</a></li>
-                    <li class="nav-item"><a href="#" class="nav-link text-white active">Diario</a></li>
-                    <li class="nav-item"><a href="../html/shop.html" class="nav-link text-white">Tienda</a></li>
-                </ul>
+            <nav class="navbar navbar-expand-md">
+                <div class="container-fluid">
+                    <!-- Botón Toggler para móviles -->
+                    <button class="navbar-toggler bg-white" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNav">
+                        <span class="navbar-toggler-icon text-white"></span>
+                    </button>
+                    <!-- Menú colapsable -->
+                    <div class="collapse navbar-collapse justify-content-center" id="navbarNav">
+                        <ul class="navbar-nav">
+                            <li class="nav-item"><a class="nav-link text-white" href="../index.html">Inicio</a></li>
+                            <li class="nav-item"><a class="nav-link text-white" href="../html/news.html">Noticias</a></li>
+                            <li class="nav-item"><a class="nav-link text-white" href="../html/map.html">Mapa</a></li>
+                            <li class="nav-item"><a class="nav-link text-white active" href="#">Diario</a></li>
+                            <li class="nav-item"><a class="nav-link text-white" href="../html/shop.html">Tienda</a></li>
+                        </ul>
+                    </div>
+                </div>
             </nav>
         </div>
     </header>
 
     <main class="container-fluid px-5">
-        <section class="row d-flex justify-content-center text-white">
-            <div class="entity-list col-3">
+        <section class="row d-flex justify-content-center text-white d-lg-flex d-md-block d-sm-block">
+            <div class="d-lg-block d-none col-lg-3 entity-list">
                 <h2>Entidades</h2>
-                <div class="entity-scroll">
-                </div>
+                <div class="entity-scroll"></div>
             </div>
-            <div class="col-1"></div>
-            <div class="col-4 entity-image">
+            <div class="d-lg-flex d-none col-lg-1"></div>
+            <div class="d-lg-flex d-none col-lg-4 entity-image">
                 <img src="" alt="">
             </div>
-            <div class="col-1"></div>
-            <div class="col-3 entity-description">
+            <div class="d-lg-flex d-none col-lg-1"></div>
+            <div class="d-lg-flex d-none col-lg-3 entity-description">
                 <h2></h2>
                 <p class="normalDescription"></p>
                 <img src="../assets/diary/hunter_face.png" alt="Imagen separadora" class="separator-img">
                 <p class="hunterDescription"></p>
+            </div>
+            
+            <div class="d-lg-none d-md-block d-block text-center">
+                <div class="entity-image col-12 mb-3">
+                    <img src="" alt="">
+                </div>
+                <div class="entity-description col-12 mb-3">
+                    <h2></h2>
+                    <p class="normalDescription"></p>
+                    <img src="../assets/diary/hunter_face.png" alt="Imagen separadora" class="separator-img d-none d-md-block">
+                    <p class="hunterDescription"></p>
+                </div>
+                <div class="entity-list col-12 ">
+                    <h2>Entidades</h2>
+                    <div class="entity-scroll"></div>
+                </div>
             </div>
         </section>
     </main>

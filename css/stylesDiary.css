@@ -96,3 +96,26 @@
     font-size: 18px;
 }
 
+@media (max-width: 900px) {
+    .entity-list,  .entity-image, .entity-description {
+        height: 250px;
+    }
+
+    .entity-image img {
+        width: 150px; 
+    }
+    
+    .entity-description p {
+        font-size: 16px;
+    }
+}
+
+@media (max-width: 575px) {
+    .entity-list,  .entity-image, .entity-description {
+        height: 120px;
+    }
+
+
+}
+
+
