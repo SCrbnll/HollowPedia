@@ -1,53 +1,52 @@
 {
-    "news": [
-      {
-        "id": 1,
-        "img": "https://via.placeholder.com/150",
-        "title": "Noticia 1",
-        "description": "descripción de la noticia"
-      },
-      {
-        "id": 2,
-        "img": "https://via.placeholder.com/150",
-        "title": "Noticia 2",
-        "description": "descripción de la noticia"
-      },
-      {
-        "id": 3,
-        "img": "https://via.placeholder.com/150",
-        "title": "Noticia 3",
-        "description": "descripción de la noticia"
-      },
-      {
-        "id": 4,
-        "img": "https://via.placeholder.com/150",
-        "title": "Noticia 4",
-        "description": "descripción de la noticia"
-      },
-      {
-        "id": 5,
-        "img": "https://via.placeholder.com/150",
-        "title": "Noticia 5",
-        "description": "descripción de la noticia"
-      },
-      {
-        "id": 6,
-        "img": "https://via.placeholder.com/150",
-        "title": "Noticia 6",
-        "description": "descripción de la noticia"
-      },
-      {
-        "id": 7,
-        "img": "https://via.placeholder.com/150",
-        "title": "Noticia 7",
-        "description": "descripción de la noticia"
-      },
-      {
-        "id": 8,
-        "img": "https://via.placeholder.com/150",
-        "title": "Noticia 8",
-        "description": "descripción de la noticia"
-      }
-    ]
-  }
-  
+  "news": [
+    {
+      "id": 1,
+      "img": "https://static.xtralife.com/conversions/60CY-3297348813-medium_w640_h480_q75-switchhollowknightsilksong-1632738578.webp",
+      "title": "Team Cherry rompe el silencio sobre Hollow Knight: Silksong",
+      "description": "El equipo de desarrollo asegura que el juego sigue en marcha y que quieren ofrecer la mejor experiencia posible antes de su lanzamiento."
+    },
+    {
+      "id": 2,
+      "img": "https://areajugones.sport.es/wp-content/uploads/2025/01/silksong-en-2025.jpg",
+      "title": "Silksong podría llegar en 2025, según nuevos rumores",
+      "description": "Fuentes internas sugieren que el esperado Hollow Knight: Silksong podría lanzarse en la primera mitad de 2025, aunque aún no hay confirmación oficial."
+    },
+    {
+      "id": 3,
+      "img": "https://images.squarespace-cdn.com/content/v1/606d159a953867291018f801/1619987722169-VV6ZASHHZNRBJW9X0PLK/Key_Art_02_layeredjpg.jpg?format=1500w",
+      "title": "Hollow Knight recibe una nueva actualización en PC",
+      "description": "Una reciente actualización ha corregido errores menores y ha mejorado la compatibilidad con sistemas modernos, asegurando una mejor experiencia para los jugadores."
+    },
+    {
+      "id": 4,
+      "img": "https://www.somosxbox.com/wp-content/uploads/2022/11/lanzamiento-Hollow-Knight-Silksong.jpg",
+      "title": "Silksong estará disponible en Game Pass desde el día uno",
+      "description": "Microsoft confirma que Hollow Knight: Silksong llegará a Xbox Game Pass en su lanzamiento, permitiendo a los suscriptores jugarlo sin costo adicional."
+    },
+    {
+      "id": 5,
+      "img": "https://i.ytimg.com/vi/4ehqxLaxluc/maxresdefault.jpg",
+      "title": "Speedrunners descubren nuevo atajo en Hollow Knight",
+      "description": "Un grupo de speedrunners ha encontrado un nuevo atajo en Deepnest, lo que podría cambiar la forma en que se completan las carreras del juego."
+    },
+    {
+      "id": 6,
+      "img": "https://i.redd.it/o287btbdfwj71.jpg",
+      "title": "La comunidad sigue creando mods impresionantes para Hollow Knight",
+      "description": "Los fanáticos han desarrollado nuevas expansiones para Hollow Knight, incluyendo áreas inéditas y jefes personalizados que amplían la experiencia del juego."
+    },
+    {
+      "id": 7,
+      "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRLzwKzUoSu0hCXrYcghRRR_gKGypLFQ725rQ&s",
+      "title": "Se cumplen 7 años desde el lanzamiento de Hollow Knight",
+      "description": "La comunidad celebra el aniversario del juego con ilustraciones, eventos y torneos en honor a la obra maestra de Team Cherry."
+    },
+    {
+      "id": 8,
+      "img": "https://www.mundodeportivo.com/alfabeta/hero/2024/09/hollow-knight-silksong.1725887459.6234.jpg?width=768&aspect_ratio=16:9&format=nowebp",
+      "title": "Silksong tendrá mejoras en su sistema de combate",
+      "description": "Nuevos detalles revelan que Silksong incorporará mecánicas de combate más dinámicas, enfocándose en la velocidad y la agilidad de Hornet."
+    }
+  ]
+}

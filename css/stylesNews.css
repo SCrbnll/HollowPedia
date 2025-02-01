@@ -40,6 +40,13 @@ label {
     padding: 10px;
     border-radius: 5px;
     display: flex;
+    transition: transform 0.3s ease, box-shadow 0.3s ease;
+    cursor: pointer;
+    
+}
+.news-item:hover {
+    transform: scale(1.01);
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.3);
 }
 
 .news-item img {
@@ -61,6 +68,10 @@ label {
 @media (max-width: 767px) {
     .news-list {
         max-height: 450px;
+    }
+    .news-item img {
+        width: auto;
+        height: 50px;
     }
 }
 

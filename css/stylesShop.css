@@ -60,12 +60,20 @@ label {
 
 .product-card {
     background-color: #2D004D;
+    max-height: 450px;
     padding: 15px;
     border-radius: 10px;
     text-align: center;
     display: flex;
     flex-direction: column;
     justify-content: space-between;
+    transition: transform 0.3s ease, box-shadow 0.3s ease;
+    cursor: pointer;
+}
+
+.product-card:hover {
+    transform: scale(1.05);
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.3);
 }
 
 .product-card img {
